@@ -1,0 +1,4230 @@
+CITY,Y,LEAD_CREATED_DATE
+Abbotsford,9,2023-06-01
+Barrie,19,2023-06-01
+Brampton,83,2023-06-01
+Brantford,22,2023-06-01
+Burnaby,10,2023-06-01
+Calgary,140,2023-06-01
+Cambridge,15,2023-06-01
+Chilliwack,9,2023-06-01
+Edmonton,145,2023-06-01
+Etobicoke,48,2023-06-01
+Fort McMurray,14,2023-06-01
+Grande Prairie,12,2023-06-01
+Guelph,14,2023-06-01
+Halifax,32,2023-06-01
+Hamilton,48,2023-06-01
+Kelowna,8,2023-06-01
+Kingston,21,2023-06-01
+Kitchener,22,2023-06-01
+Lethbridge,14,2023-06-01
+London,53,2023-06-01
+Mississauga,84,2023-06-01
+Moncton,9,2023-06-01
+Nanaimo,8,2023-06-01
+Nepean,21,2023-06-01
+Niagara Falls,12,2023-06-01
+North York,88,2023-06-01
+Oshawa,34,2023-06-01
+Ottawa,43,2023-06-01
+Peterborough,14,2023-06-01
+Prince George,5,2023-06-01
+Red Deer,29,2023-06-01
+Regina,17,2023-06-01
+Saint John,9,2023-06-01
+Saskatoon,18,2023-06-01
+Sault Ste. Marie,14,2023-06-01
+Scarborough,97,2023-06-01
+St Catharines,16,2023-06-01
+Sudbury,17,2023-06-01
+Surrey,37,2023-06-01
+Thunder Bay,9,2023-06-01
+Toronto,69,2023-06-01
+Vancouver,29,2023-06-01
+Victoria,9,2023-06-01
+Windsor,30,2023-06-01
+Winnipeg,51,2023-06-01
+York,14,2023-06-01
+Abbotsford,10,2023-06-02
+Barrie,8,2023-06-02
+Brampton,70,2023-06-02
+Brantford,17,2023-06-02
+Burnaby,14,2023-06-02
+Calgary,87,2023-06-02
+Cambridge,7,2023-06-02
+Chilliwack,12,2023-06-02
+Edmonton,115,2023-06-02
+Etobicoke,30,2023-06-02
+Fort McMurray,8,2023-06-02
+Grande Prairie,5,2023-06-02
+Guelph,12,2023-06-02
+Halifax,14,2023-06-02
+Hamilton,47,2023-06-02
+Kelowna,14,2023-06-02
+Kingston,16,2023-06-02
+Kitchener,27,2023-06-02
+Lethbridge,12,2023-06-02
+London,36,2023-06-02
+Mississauga,40,2023-06-02
+Moncton,16,2023-06-02
+Nanaimo,11,2023-06-02
+Nepean,10,2023-06-02
+Niagara Falls,11,2023-06-02
+North York,53,2023-06-02
+Oshawa,20,2023-06-02
+Ottawa,24,2023-06-02
+Peterborough,7,2023-06-02
+Prince George,4,2023-06-02
+Red Deer,8,2023-06-02
+Regina,16,2023-06-02
+Saint John,10,2023-06-02
+Saskatoon,19,2023-06-02
+Sault Ste. Marie,5,2023-06-02
+Scarborough,48,2023-06-02
+St Catharines,16,2023-06-02
+Sudbury,7,2023-06-02
+Surrey,40,2023-06-02
+Thunder Bay,9,2023-06-02
+Toronto,48,2023-06-02
+Vancouver,24,2023-06-02
+Victoria,14,2023-06-02
+Windsor,26,2023-06-02
+Winnipeg,73,2023-06-02
+York,14,2023-06-02
+Abbotsford,10,2023-06-03
+Barrie,22,2023-06-03
+Brampton,63,2023-06-03
+Brantford,21,2023-06-03
+Burnaby,11,2023-06-03
+Calgary,92,2023-06-03
+Cambridge,13,2023-06-03
+Chilliwack,6,2023-06-03
+Edmonton,91,2023-06-03
+Etobicoke,25,2023-06-03
+Fort McMurray,7,2023-06-03
+Grande Prairie,8,2023-06-03
+Guelph,5,2023-06-03
+Halifax,9,2023-06-03
+Hamilton,35,2023-06-03
+Kelowna,16,2023-06-03
+Kingston,6,2023-06-03
+Kitchener,17,2023-06-03
+Lethbridge,13,2023-06-03
+London,36,2023-06-03
+Mississauga,31,2023-06-03
+Moncton,12,2023-06-03
+Nanaimo,10,2023-06-03
+Nepean,9,2023-06-03
+Niagara Falls,7,2023-06-03
+North York,46,2023-06-03
+Oshawa,21,2023-06-03
+Ottawa,25,2023-06-03
+Peterborough,3,2023-06-03
+Prince George,13,2023-06-03
+Red Deer,15,2023-06-03
+Regina,14,2023-06-03
+Saint John,7,2023-06-03
+Saskatoon,28,2023-06-03
+Sault Ste. Marie,8,2023-06-03
+Scarborough,35,2023-06-03
+St Catharines,12,2023-06-03
+Sudbury,6,2023-06-03
+Surrey,37,2023-06-03
+Thunder Bay,10,2023-06-03
+Toronto,31,2023-06-03
+Vancouver,27,2023-06-03
+Victoria,11,2023-06-03
+Windsor,18,2023-06-03
+Winnipeg,70,2023-06-03
+York,5,2023-06-03
+Abbotsford,11,2023-06-04
+Barrie,17,2023-06-04
+Brampton,42,2023-06-04
+Brantford,10,2023-06-04
+Burnaby,7,2023-06-04
+Calgary,58,2023-06-04
+Cambridge,7,2023-06-04
+Chilliwack,7,2023-06-04
+Edmonton,83,2023-06-04
+Etobicoke,17,2023-06-04
+Fort McMurray,4,2023-06-04
+Grande Prairie,5,2023-06-04
+Guelph,6,2023-06-04
+Halifax,3,2023-06-04
+Hamilton,37,2023-06-04
+Kelowna,11,2023-06-04
+Kingston,17,2023-06-04
+Kitchener,16,2023-06-04
+Lethbridge,8,2023-06-04
+London,30,2023-06-04
+Mississauga,33,2023-06-04
+Moncton,5,2023-06-04
+Nanaimo,5,2023-06-04
+Nepean,8,2023-06-04
+Niagara Falls,8,2023-06-04
+North York,35,2023-06-04
+Oshawa,15,2023-06-04
+Ottawa,27,2023-06-04
+Peterborough,9,2023-06-04
+Prince George,7,2023-06-04
+Red Deer,10,2023-06-04
+Regina,15,2023-06-04
+Saint John,3,2023-06-04
+Saskatoon,10,2023-06-04
+Sault Ste. Marie,5,2023-06-04
+Scarborough,32,2023-06-04
+St Catharines,5,2023-06-04
+Sudbury,10,2023-06-04
+Surrey,27,2023-06-04
+Thunder Bay,2,2023-06-04
+Toronto,44,2023-06-04
+Vancouver,16,2023-06-04
+Victoria,9,2023-06-04
+Windsor,11,2023-06-04
+Winnipeg,43,2023-06-04
+York,3,2023-06-04
+Abbotsford,12,2023-06-05
+Barrie,21,2023-06-05
+Brampton,78,2023-06-05
+Brantford,14,2023-06-05
+Burnaby,9,2023-06-05
+Calgary,106,2023-06-05
+Cambridge,10,2023-06-05
+Chilliwack,12,2023-06-05
+Edmonton,104,2023-06-05
+Etobicoke,30,2023-06-05
+Fort McMurray,7,2023-06-05
+Grande Prairie,7,2023-06-05
+Guelph,10,2023-06-05
+Halifax,15,2023-06-05
+Hamilton,43,2023-06-05
+Kelowna,13,2023-06-05
+Kingston,8,2023-06-05
+Kitchener,16,2023-06-05
+Lethbridge,11,2023-06-05
+London,39,2023-06-05
+Mississauga,63,2023-06-05
+Moncton,10,2023-06-05
+Nanaimo,14,2023-06-05
+Nepean,10,2023-06-05
+Niagara Falls,10,2023-06-05
+North York,50,2023-06-05
+Oshawa,25,2023-06-05
+Ottawa,27,2023-06-05
+Peterborough,9,2023-06-05
+Prince George,5,2023-06-05
+Red Deer,16,2023-06-05
+Regina,16,2023-06-05
+Saint John,7,2023-06-05
+Saskatoon,18,2023-06-05
+Sault Ste. Marie,5,2023-06-05
+Scarborough,57,2023-06-05
+St Catharines,12,2023-06-05
+Sudbury,12,2023-06-05
+Surrey,37,2023-06-05
+Thunder Bay,11,2023-06-05
+Toronto,62,2023-06-05
+Vancouver,48,2023-06-05
+Victoria,11,2023-06-05
+Windsor,35,2023-06-05
+Winnipeg,75,2023-06-05
+York,17,2023-06-05
+Abbotsford,16,2023-06-06
+Barrie,26,2023-06-06
+Brampton,73,2023-06-06
+Brantford,28,2023-06-06
+Burnaby,24,2023-06-06
+Calgary,156,2023-06-06
+Cambridge,16,2023-06-06
+Chilliwack,17,2023-06-06
+Edmonton,171,2023-06-06
+Etobicoke,41,2023-06-06
+Fort McMurray,10,2023-06-06
+Grande Prairie,24,2023-06-06
+Guelph,14,2023-06-06
+Halifax,22,2023-06-06
+Hamilton,48,2023-06-06
+Kelowna,21,2023-06-06
+Kingston,11,2023-06-06
+Kitchener,27,2023-06-06
+Lethbridge,18,2023-06-06
+London,58,2023-06-06
+Mississauga,53,2023-06-06
+Moncton,23,2023-06-06
+Nanaimo,17,2023-06-06
+Nepean,14,2023-06-06
+Niagara Falls,19,2023-06-06
+North York,73,2023-06-06
+Oshawa,42,2023-06-06
+Ottawa,46,2023-06-06
+Peterborough,7,2023-06-06
+Prince George,22,2023-06-06
+Red Deer,18,2023-06-06
+Regina,33,2023-06-06
+Saint John,23,2023-06-06
+Saskatoon,35,2023-06-06
+Sault Ste. Marie,18,2023-06-06
+Scarborough,94,2023-06-06
+St Catharines,21,2023-06-06
+Sudbury,18,2023-06-06
+Surrey,52,2023-06-06
+Thunder Bay,14,2023-06-06
+Toronto,69,2023-06-06
+Vancouver,45,2023-06-06
+Victoria,16,2023-06-06
+Windsor,41,2023-06-06
+Winnipeg,107,2023-06-06
+York,14,2023-06-06
+Abbotsford,20,2023-06-07
+Barrie,19,2023-06-07
+Brampton,77,2023-06-07
+Brantford,22,2023-06-07
+Burnaby,12,2023-06-07
+Calgary,136,2023-06-07
+Cambridge,17,2023-06-07
+Chilliwack,14,2023-06-07
+Edmonton,144,2023-06-07
+Etobicoke,36,2023-06-07
+Fort McMurray,18,2023-06-07
+Grande Prairie,12,2023-06-07
+Guelph,21,2023-06-07
+Halifax,13,2023-06-07
+Hamilton,60,2023-06-07
+Kelowna,18,2023-06-07
+Kingston,20,2023-06-07
+Kitchener,36,2023-06-07
+Lethbridge,17,2023-06-07
+London,74,2023-06-07
+Mississauga,49,2023-06-07
+Moncton,15,2023-06-07
+Nanaimo,11,2023-06-07
+Nepean,17,2023-06-07
+Niagara Falls,9,2023-06-07
+North York,90,2023-06-07
+Oshawa,26,2023-06-07
+Ottawa,47,2023-06-07
+Peterborough,11,2023-06-07
+Prince George,23,2023-06-07
+Red Deer,20,2023-06-07
+Regina,33,2023-06-07
+Saint John,14,2023-06-07
+Saskatoon,41,2023-06-07
+Sault Ste. Marie,12,2023-06-07
+Scarborough,75,2023-06-07
+St Catharines,20,2023-06-07
+Sudbury,14,2023-06-07
+Surrey,72,2023-06-07
+Thunder Bay,15,2023-06-07
+Toronto,69,2023-06-07
+Vancouver,37,2023-06-07
+Victoria,19,2023-06-07
+Windsor,51,2023-06-07
+Winnipeg,116,2023-06-07
+York,18,2023-06-07
+Abbotsford,20,2023-06-08
+Barrie,23,2023-06-08
+Brampton,53,2023-06-08
+Brantford,18,2023-06-08
+Burnaby,18,2023-06-08
+Calgary,79,2023-06-08
+Cambridge,19,2023-06-08
+Chilliwack,10,2023-06-08
+Edmonton,123,2023-06-08
+Etobicoke,26,2023-06-08
+Fort McMurray,16,2023-06-08
+Grande Prairie,11,2023-06-08
+Guelph,13,2023-06-08
+Halifax,24,2023-06-08
+Hamilton,51,2023-06-08
+Kelowna,10,2023-06-08
+Kingston,15,2023-06-08
+Kitchener,23,2023-06-08
+Lethbridge,12,2023-06-08
+London,44,2023-06-08
+Mississauga,59,2023-06-08
+Moncton,10,2023-06-08
+Nanaimo,11,2023-06-08
+Nepean,12,2023-06-08
+Niagara Falls,14,2023-06-08
+North York,62,2023-06-08
+Oshawa,25,2023-06-08
+Ottawa,31,2023-06-08
+Peterborough,12,2023-06-08
+Prince George,12,2023-06-08
+Red Deer,13,2023-06-08
+Regina,31,2023-06-08
+Saint John,16,2023-06-08
+Saskatoon,20,2023-06-08
+Sault Ste. Marie,13,2023-06-08
+Scarborough,35,2023-06-08
+St Catharines,13,2023-06-08
+Sudbury,16,2023-06-08
+Surrey,48,2023-06-08
+Thunder Bay,5,2023-06-08
+Toronto,46,2023-06-08
+Vancouver,32,2023-06-08
+Victoria,8,2023-06-08
+Windsor,29,2023-06-08
+Winnipeg,96,2023-06-08
+York,18,2023-06-08
+Abbotsford,18,2023-06-09
+Barrie,16,2023-06-09
+Brampton,60,2023-06-09
+Brantford,22,2023-06-09
+Burnaby,13,2023-06-09
+Calgary,99,2023-06-09
+Cambridge,18,2023-06-09
+Chilliwack,8,2023-06-09
+Edmonton,109,2023-06-09
+Etobicoke,30,2023-06-09
+Fort McMurray,12,2023-06-09
+Grande Prairie,13,2023-06-09
+Guelph,10,2023-06-09
+Halifax,14,2023-06-09
+Hamilton,28,2023-06-09
+Kelowna,12,2023-06-09
+Kingston,5,2023-06-09
+Kitchener,21,2023-06-09
+Lethbridge,12,2023-06-09
+London,40,2023-06-09
+Mississauga,33,2023-06-09
+Moncton,4,2023-06-09
+Nanaimo,4,2023-06-09
+Nepean,6,2023-06-09
+Niagara Falls,16,2023-06-09
+North York,56,2023-06-09
+Oshawa,27,2023-06-09
+Ottawa,22,2023-06-09
+Peterborough,7,2023-06-09
+Prince George,17,2023-06-09
+Red Deer,13,2023-06-09
+Regina,14,2023-06-09
+Saint John,11,2023-06-09
+Saskatoon,22,2023-06-09
+Sault Ste. Marie,11,2023-06-09
+Scarborough,37,2023-06-09
+St Catharines,15,2023-06-09
+Sudbury,16,2023-06-09
+Surrey,46,2023-06-09
+Thunder Bay,9,2023-06-09
+Toronto,39,2023-06-09
+Vancouver,29,2023-06-09
+Victoria,18,2023-06-09
+Windsor,25,2023-06-09
+Winnipeg,62,2023-06-09
+York,13,2023-06-09
+Abbotsford,7,2023-06-10
+Barrie,15,2023-06-10
+Brampton,48,2023-06-10
+Brantford,17,2023-06-10
+Burnaby,9,2023-06-10
+Calgary,81,2023-06-10
+Cambridge,8,2023-06-10
+Chilliwack,9,2023-06-10
+Edmonton,86,2023-06-10
+Etobicoke,10,2023-06-10
+Fort McMurray,7,2023-06-10
+Grande Prairie,9,2023-06-10
+Guelph,11,2023-06-10
+Halifax,11,2023-06-10
+Hamilton,29,2023-06-10
+Kelowna,10,2023-06-10
+Kingston,8,2023-06-10
+Kitchener,19,2023-06-10
+Lethbridge,9,2023-06-10
+London,22,2023-06-10
+Mississauga,22,2023-06-10
+Moncton,11,2023-06-10
+Nanaimo,6,2023-06-10
+Niagara Falls,6,2023-06-10
+North York,43,2023-06-10
+Oshawa,17,2023-06-10
+Ottawa,27,2023-06-10
+Peterborough,12,2023-06-10
+Prince George,4,2023-06-10
+Red Deer,13,2023-06-10
+Regina,10,2023-06-10
+Saint John,14,2023-06-10
+Saskatoon,17,2023-06-10
+Sault Ste. Marie,4,2023-06-10
+Scarborough,37,2023-06-10
+St Catharines,16,2023-06-10
+Sudbury,7,2023-06-10
+Surrey,50,2023-06-10
+Thunder Bay,10,2023-06-10
+Toronto,34,2023-06-10
+Vancouver,25,2023-06-10
+Victoria,8,2023-06-10
+Windsor,18,2023-06-10
+Winnipeg,58,2023-06-10
+York,12,2023-06-10
+Abbotsford,9,2023-06-11
+Barrie,8,2023-06-11
+Brampton,37,2023-06-11
+Brantford,9,2023-06-11
+Burnaby,4,2023-06-11
+Calgary,71,2023-06-11
+Cambridge,6,2023-06-11
+Chilliwack,8,2023-06-11
+Edmonton,93,2023-06-11
+Etobicoke,17,2023-06-11
+Fort McMurray,3,2023-06-11
+Grande Prairie,6,2023-06-11
+Guelph,6,2023-06-11
+Halifax,10,2023-06-11
+Hamilton,29,2023-06-11
+Kelowna,5,2023-06-11
+Kingston,12,2023-06-11
+Kitchener,15,2023-06-11
+Lethbridge,15,2023-06-11
+London,21,2023-06-11
+Mississauga,26,2023-06-11
+Moncton,2,2023-06-11
+Nanaimo,5,2023-06-11
+Nepean,8,2023-06-11
+Niagara Falls,4,2023-06-11
+North York,30,2023-06-11
+Oshawa,25,2023-06-11
+Ottawa,17,2023-06-11
+Peterborough,5,2023-06-11
+Prince George,9,2023-06-11
+Red Deer,12,2023-06-11
+Regina,9,2023-06-11
+Saint John,5,2023-06-11
+Saskatoon,19,2023-06-11
+Sault Ste. Marie,10,2023-06-11
+Scarborough,34,2023-06-11
+St Catharines,17,2023-06-11
+Sudbury,4,2023-06-11
+Surrey,26,2023-06-11
+Thunder Bay,10,2023-06-11
+Toronto,31,2023-06-11
+Vancouver,22,2023-06-11
+Victoria,8,2023-06-11
+Windsor,18,2023-06-11
+Winnipeg,63,2023-06-11
+York,11,2023-06-11
+Abbotsford,10,2023-06-12
+Barrie,26,2023-06-12
+Brampton,60,2023-06-12
+Brantford,14,2023-06-12
+Burnaby,7,2023-06-12
+Calgary,110,2023-06-12
+Cambridge,16,2023-06-12
+Chilliwack,11,2023-06-12
+Edmonton,125,2023-06-12
+Etobicoke,22,2023-06-12
+Fort McMurray,11,2023-06-12
+Grande Prairie,13,2023-06-12
+Guelph,15,2023-06-12
+Halifax,14,2023-06-12
+Hamilton,49,2023-06-12
+Kelowna,9,2023-06-12
+Kingston,17,2023-06-12
+Kitchener,32,2023-06-12
+Lethbridge,7,2023-06-12
+London,56,2023-06-12
+Mississauga,41,2023-06-12
+Moncton,20,2023-06-12
+Nanaimo,10,2023-06-12
+Nepean,13,2023-06-12
+Niagara Falls,20,2023-06-12
+North York,57,2023-06-12
+Oshawa,32,2023-06-12
+Ottawa,27,2023-06-12
+Peterborough,10,2023-06-12
+Prince George,8,2023-06-12
+Red Deer,12,2023-06-12
+Regina,21,2023-06-12
+Saint John,15,2023-06-12
+Saskatoon,25,2023-06-12
+Sault Ste. Marie,11,2023-06-12
+Scarborough,49,2023-06-12
+St Catharines,12,2023-06-12
+Sudbury,13,2023-06-12
+Surrey,35,2023-06-12
+Thunder Bay,11,2023-06-12
+Toronto,50,2023-06-12
+Vancouver,38,2023-06-12
+Victoria,6,2023-06-12
+Windsor,28,2023-06-12
+Winnipeg,67,2023-06-12
+York,16,2023-06-12
+Abbotsford,18,2023-06-13
+Barrie,19,2023-06-13
+Brampton,81,2023-06-13
+Brantford,20,2023-06-13
+Burnaby,12,2023-06-13
+Calgary,129,2023-06-13
+Cambridge,20,2023-06-13
+Chilliwack,3,2023-06-13
+Edmonton,137,2023-06-13
+Etobicoke,42,2023-06-13
+Fort McMurray,10,2023-06-13
+Grande Prairie,9,2023-06-13
+Guelph,13,2023-06-13
+Halifax,15,2023-06-13
+Hamilton,59,2023-06-13
+Kelowna,21,2023-06-13
+Kingston,23,2023-06-13
+Kitchener,27,2023-06-13
+Lethbridge,12,2023-06-13
+London,45,2023-06-13
+Mississauga,56,2023-06-13
+Moncton,10,2023-06-13
+Nanaimo,9,2023-06-13
+Nepean,14,2023-06-13
+Niagara Falls,18,2023-06-13
+North York,58,2023-06-13
+Oshawa,27,2023-06-13
+Ottawa,40,2023-06-13
+Peterborough,7,2023-06-13
+Prince George,10,2023-06-13
+Red Deer,18,2023-06-13
+Regina,15,2023-06-13
+Saint John,10,2023-06-13
+Saskatoon,19,2023-06-13
+Sault Ste. Marie,8,2023-06-13
+Scarborough,58,2023-06-13
+St Catharines,19,2023-06-13
+Sudbury,10,2023-06-13
+Surrey,54,2023-06-13
+Thunder Bay,12,2023-06-13
+Toronto,62,2023-06-13
+Vancouver,34,2023-06-13
+Victoria,14,2023-06-13
+Windsor,39,2023-06-13
+Winnipeg,83,2023-06-13
+York,11,2023-06-13
+Abbotsford,10,2023-06-14
+Barrie,21,2023-06-14
+Brampton,65,2023-06-14
+Brantford,11,2023-06-14
+Burnaby,12,2023-06-14
+Calgary,105,2023-06-14
+Cambridge,15,2023-06-14
+Chilliwack,12,2023-06-14
+Edmonton,87,2023-06-14
+Etobicoke,24,2023-06-14
+Fort McMurray,13,2023-06-14
+Grande Prairie,13,2023-06-14
+Guelph,8,2023-06-14
+Halifax,7,2023-06-14
+Hamilton,36,2023-06-14
+Kelowna,10,2023-06-14
+Kingston,11,2023-06-14
+Kitchener,26,2023-06-14
+Lethbridge,9,2023-06-14
+London,45,2023-06-14
+Mississauga,43,2023-06-14
+Moncton,6,2023-06-14
+Nanaimo,11,2023-06-14
+Nepean,6,2023-06-14
+Niagara Falls,12,2023-06-14
+North York,51,2023-06-14
+Oshawa,18,2023-06-14
+Ottawa,38,2023-06-14
+Peterborough,10,2023-06-14
+Prince George,8,2023-06-14
+Red Deer,10,2023-06-14
+Regina,15,2023-06-14
+Saint John,8,2023-06-14
+Saskatoon,22,2023-06-14
+Sault Ste. Marie,7,2023-06-14
+Scarborough,62,2023-06-14
+St Catharines,13,2023-06-14
+Sudbury,11,2023-06-14
+Surrey,33,2023-06-14
+Thunder Bay,7,2023-06-14
+Toronto,39,2023-06-14
+Vancouver,34,2023-06-14
+Victoria,8,2023-06-14
+Windsor,18,2023-06-14
+Winnipeg,70,2023-06-14
+York,9,2023-06-14
+Abbotsford,9,2023-06-15
+Barrie,19,2023-06-15
+Brampton,58,2023-06-15
+Brantford,10,2023-06-15
+Burnaby,11,2023-06-15
+Calgary,98,2023-06-15
+Cambridge,16,2023-06-15
+Chilliwack,12,2023-06-15
+Edmonton,127,2023-06-15
+Etobicoke,20,2023-06-15
+Fort McMurray,6,2023-06-15
+Grande Prairie,10,2023-06-15
+Guelph,7,2023-06-15
+Halifax,17,2023-06-15
+Hamilton,33,2023-06-15
+Kelowna,10,2023-06-15
+Kingston,8,2023-06-15
+Kitchener,21,2023-06-15
+Lethbridge,7,2023-06-15
+London,50,2023-06-15
+Mississauga,33,2023-06-15
+Moncton,7,2023-06-15
+Nanaimo,12,2023-06-15
+Nepean,11,2023-06-15
+Niagara Falls,7,2023-06-15
+North York,48,2023-06-15
+Oshawa,22,2023-06-15
+Ottawa,24,2023-06-15
+Peterborough,10,2023-06-15
+Prince George,9,2023-06-15
+Red Deer,7,2023-06-15
+Regina,13,2023-06-15
+Saint John,3,2023-06-15
+Saskatoon,18,2023-06-15
+Sault Ste. Marie,8,2023-06-15
+Scarborough,56,2023-06-15
+St Catharines,8,2023-06-15
+Sudbury,10,2023-06-15
+Surrey,47,2023-06-15
+Thunder Bay,10,2023-06-15
+Toronto,61,2023-06-15
+Vancouver,20,2023-06-15
+Victoria,20,2023-06-15
+Windsor,30,2023-06-15
+Winnipeg,57,2023-06-15
+York,10,2023-06-15
+Abbotsford,13,2023-06-16
+Barrie,14,2023-06-16
+Brampton,47,2023-06-16
+Brantford,12,2023-06-16
+Burnaby,11,2023-06-16
+Calgary,95,2023-06-16
+Cambridge,9,2023-06-16
+Chilliwack,11,2023-06-16
+Edmonton,119,2023-06-16
+Etobicoke,22,2023-06-16
+Fort McMurray,9,2023-06-16
+Grande Prairie,5,2023-06-16
+Guelph,8,2023-06-16
+Halifax,16,2023-06-16
+Hamilton,37,2023-06-16
+Kelowna,9,2023-06-16
+Kingston,13,2023-06-16
+Kitchener,23,2023-06-16
+Lethbridge,6,2023-06-16
+London,35,2023-06-16
+Mississauga,28,2023-06-16
+Moncton,9,2023-06-16
+Nanaimo,15,2023-06-16
+Nepean,11,2023-06-16
+Niagara Falls,12,2023-06-16
+North York,48,2023-06-16
+Oshawa,24,2023-06-16
+Ottawa,22,2023-06-16
+Peterborough,7,2023-06-16
+Prince George,8,2023-06-16
+Red Deer,11,2023-06-16
+Regina,13,2023-06-16
+Saint John,9,2023-06-16
+Saskatoon,14,2023-06-16
+Sault Ste. Marie,9,2023-06-16
+Scarborough,37,2023-06-16
+St Catharines,11,2023-06-16
+Sudbury,12,2023-06-16
+Surrey,41,2023-06-16
+Thunder Bay,6,2023-06-16
+Toronto,56,2023-06-16
+Vancouver,21,2023-06-16
+Victoria,14,2023-06-16
+Windsor,27,2023-06-16
+Winnipeg,58,2023-06-16
+York,2,2023-06-16
+Abbotsford,5,2023-06-17
+Barrie,13,2023-06-17
+Brampton,33,2023-06-17
+Brantford,9,2023-06-17
+Burnaby,7,2023-06-17
+Calgary,81,2023-06-17
+Cambridge,8,2023-06-17
+Chilliwack,10,2023-06-17
+Edmonton,89,2023-06-17
+Etobicoke,19,2023-06-17
+Fort McMurray,8,2023-06-17
+Grande Prairie,10,2023-06-17
+Guelph,7,2023-06-17
+Halifax,5,2023-06-17
+Hamilton,27,2023-06-17
+Kelowna,9,2023-06-17
+Kingston,9,2023-06-17
+Kitchener,20,2023-06-17
+Lethbridge,5,2023-06-17
+London,38,2023-06-17
+Mississauga,39,2023-06-17
+Moncton,4,2023-06-17
+Nanaimo,12,2023-06-17
+Nepean,8,2023-06-17
+Niagara Falls,13,2023-06-17
+North York,38,2023-06-17
+Oshawa,16,2023-06-17
+Ottawa,22,2023-06-17
+Peterborough,5,2023-06-17
+Prince George,3,2023-06-17
+Red Deer,15,2023-06-17
+Regina,11,2023-06-17
+Saint John,4,2023-06-17
+Saskatoon,17,2023-06-17
+Sault Ste. Marie,9,2023-06-17
+Scarborough,44,2023-06-17
+St Catharines,9,2023-06-17
+Sudbury,10,2023-06-17
+Surrey,34,2023-06-17
+Thunder Bay,6,2023-06-17
+Toronto,38,2023-06-17
+Vancouver,17,2023-06-17
+Victoria,12,2023-06-17
+Windsor,28,2023-06-17
+Winnipeg,48,2023-06-17
+York,10,2023-06-17
+Abbotsford,7,2023-06-18
+Barrie,21,2023-06-18
+Brampton,28,2023-06-18
+Brantford,7,2023-06-18
+Burnaby,8,2023-06-18
+Calgary,68,2023-06-18
+Cambridge,5,2023-06-18
+Chilliwack,3,2023-06-18
+Edmonton,84,2023-06-18
+Etobicoke,9,2023-06-18
+Fort McMurray,8,2023-06-18
+Grande Prairie,4,2023-06-18
+Guelph,9,2023-06-18
+Halifax,8,2023-06-18
+Hamilton,15,2023-06-18
+Kelowna,10,2023-06-18
+Kingston,8,2023-06-18
+Kitchener,5,2023-06-18
+Lethbridge,8,2023-06-18
+London,29,2023-06-18
+Mississauga,25,2023-06-18
+Moncton,5,2023-06-18
+Nanaimo,6,2023-06-18
+Nepean,7,2023-06-18
+Niagara Falls,10,2023-06-18
+North York,25,2023-06-18
+Oshawa,12,2023-06-18
+Ottawa,13,2023-06-18
+Peterborough,7,2023-06-18
+Prince George,2,2023-06-18
+Red Deer,6,2023-06-18
+Regina,11,2023-06-18
+Saint John,9,2023-06-18
+Saskatoon,9,2023-06-18
+Sault Ste. Marie,22,2023-06-18
+Scarborough,26,2023-06-18
+St Catharines,13,2023-06-18
+Sudbury,5,2023-06-18
+Surrey,28,2023-06-18
+Thunder Bay,5,2023-06-18
+Toronto,23,2023-06-18
+Vancouver,16,2023-06-18
+Victoria,5,2023-06-18
+Windsor,17,2023-06-18
+Winnipeg,41,2023-06-18
+York,2,2023-06-18
+Abbotsford,9,2023-06-19
+Barrie,9,2023-06-19
+Brampton,42,2023-06-19
+Brantford,14,2023-06-19
+Burnaby,10,2023-06-19
+Calgary,110,2023-06-19
+Cambridge,11,2023-06-19
+Chilliwack,7,2023-06-19
+Edmonton,99,2023-06-19
+Etobicoke,17,2023-06-19
+Fort McMurray,5,2023-06-19
+Grande Prairie,12,2023-06-19
+Guelph,11,2023-06-19
+Halifax,13,2023-06-19
+Hamilton,34,2023-06-19
+Kelowna,15,2023-06-19
+Kingston,6,2023-06-19
+Kitchener,22,2023-06-19
+Lethbridge,3,2023-06-19
+London,35,2023-06-19
+Mississauga,35,2023-06-19
+Moncton,4,2023-06-19
+Nanaimo,6,2023-06-19
+Nepean,9,2023-06-19
+Niagara Falls,9,2023-06-19
+North York,50,2023-06-19
+Oshawa,18,2023-06-19
+Ottawa,22,2023-06-19
+Peterborough,12,2023-06-19
+Prince George,8,2023-06-19
+Red Deer,18,2023-06-19
+Regina,20,2023-06-19
+Saint John,6,2023-06-19
+Saskatoon,13,2023-06-19
+Sault Ste. Marie,4,2023-06-19
+Scarborough,37,2023-06-19
+St Catharines,13,2023-06-19
+Sudbury,10,2023-06-19
+Surrey,35,2023-06-19
+Thunder Bay,6,2023-06-19
+Toronto,41,2023-06-19
+Vancouver,17,2023-06-19
+Victoria,17,2023-06-19
+Windsor,19,2023-06-19
+Winnipeg,54,2023-06-19
+York,14,2023-06-19
+Abbotsford,11,2023-06-20
+Barrie,19,2023-06-20
+Brampton,65,2023-06-20
+Brantford,14,2023-06-20
+Burnaby,9,2023-06-20
+Calgary,112,2023-06-20
+Cambridge,16,2023-06-20
+Chilliwack,14,2023-06-20
+Edmonton,150,2023-06-20
+Etobicoke,23,2023-06-20
+Fort McMurray,9,2023-06-20
+Grande Prairie,8,2023-06-20
+Guelph,10,2023-06-20
+Halifax,7,2023-06-20
+Hamilton,38,2023-06-20
+Kelowna,10,2023-06-20
+Kingston,18,2023-06-20
+Kitchener,22,2023-06-20
+Lethbridge,8,2023-06-20
+London,31,2023-06-20
+Mississauga,53,2023-06-20
+Moncton,6,2023-06-20
+Nanaimo,14,2023-06-20
+Nepean,4,2023-06-20
+Niagara Falls,16,2023-06-20
+North York,50,2023-06-20
+Oshawa,16,2023-06-20
+Ottawa,27,2023-06-20
+Peterborough,10,2023-06-20
+Prince George,11,2023-06-20
+Red Deer,15,2023-06-20
+Regina,11,2023-06-20
+Saint John,10,2023-06-20
+Saskatoon,25,2023-06-20
+Sault Ste. Marie,2,2023-06-20
+Scarborough,41,2023-06-20
+St Catharines,8,2023-06-20
+Sudbury,11,2023-06-20
+Surrey,35,2023-06-20
+Thunder Bay,8,2023-06-20
+Toronto,44,2023-06-20
+Vancouver,31,2023-06-20
+Victoria,14,2023-06-20
+Windsor,17,2023-06-20
+Winnipeg,61,2023-06-20
+York,22,2023-06-20
+Abbotsford,3,2023-06-21
+Barrie,9,2023-06-21
+Brampton,38,2023-06-21
+Brantford,10,2023-06-21
+Burnaby,11,2023-06-21
+Calgary,93,2023-06-21
+Cambridge,7,2023-06-21
+Chilliwack,7,2023-06-21
+Edmonton,96,2023-06-21
+Etobicoke,13,2023-06-21
+Fort McMurray,13,2023-06-21
+Grande Prairie,4,2023-06-21
+Guelph,8,2023-06-21
+Halifax,10,2023-06-21
+Hamilton,28,2023-06-21
+Kelowna,7,2023-06-21
+Kingston,9,2023-06-21
+Kitchener,14,2023-06-21
+Lethbridge,8,2023-06-21
+London,24,2023-06-21
+Mississauga,34,2023-06-21
+Moncton,4,2023-06-21
+Nanaimo,2,2023-06-21
+Nepean,8,2023-06-21
+Niagara Falls,14,2023-06-21
+North York,31,2023-06-21
+Oshawa,10,2023-06-21
+Ottawa,23,2023-06-21
+Peterborough,11,2023-06-21
+Prince George,8,2023-06-21
+Red Deer,9,2023-06-21
+Regina,12,2023-06-21
+Saint John,5,2023-06-21
+Saskatoon,12,2023-06-21
+Sault Ste. Marie,3,2023-06-21
+Scarborough,27,2023-06-21
+St Catharines,8,2023-06-21
+Sudbury,11,2023-06-21
+Surrey,30,2023-06-21
+Thunder Bay,10,2023-06-21
+Toronto,45,2023-06-21
+Vancouver,26,2023-06-21
+Victoria,10,2023-06-21
+Windsor,24,2023-06-21
+Winnipeg,51,2023-06-21
+York,5,2023-06-21
+Abbotsford,6,2023-06-22
+Barrie,17,2023-06-22
+Brampton,56,2023-06-22
+Brantford,12,2023-06-22
+Burnaby,17,2023-06-22
+Calgary,103,2023-06-22
+Cambridge,12,2023-06-22
+Chilliwack,8,2023-06-22
+Edmonton,88,2023-06-22
+Etobicoke,24,2023-06-22
+Fort McMurray,15,2023-06-22
+Grande Prairie,7,2023-06-22
+Guelph,15,2023-06-22
+Halifax,12,2023-06-22
+Hamilton,37,2023-06-22
+Kelowna,17,2023-06-22
+Kingston,15,2023-06-22
+Kitchener,24,2023-06-22
+Lethbridge,12,2023-06-22
+London,34,2023-06-22
+Mississauga,39,2023-06-22
+Moncton,7,2023-06-22
+Nanaimo,16,2023-06-22
+Nepean,20,2023-06-22
+Niagara Falls,11,2023-06-22
+North York,58,2023-06-22
+Oshawa,17,2023-06-22
+Ottawa,30,2023-06-22
+Peterborough,5,2023-06-22
+Prince George,6,2023-06-22
+Red Deer,27,2023-06-22
+Regina,18,2023-06-22
+Saint John,8,2023-06-22
+Saskatoon,23,2023-06-22
+Sault Ste. Marie,9,2023-06-22
+Scarborough,48,2023-06-22
+St Catharines,12,2023-06-22
+Sudbury,9,2023-06-22
+Surrey,55,2023-06-22
+Thunder Bay,8,2023-06-22
+Toronto,49,2023-06-22
+Vancouver,35,2023-06-22
+Victoria,14,2023-06-22
+Windsor,34,2023-06-22
+Winnipeg,68,2023-06-22
+York,13,2023-06-22
+Abbotsford,10,2023-06-23
+Barrie,24,2023-06-23
+Brampton,52,2023-06-23
+Brantford,16,2023-06-23
+Burnaby,7,2023-06-23
+Calgary,95,2023-06-23
+Cambridge,15,2023-06-23
+Chilliwack,8,2023-06-23
+Edmonton,97,2023-06-23
+Etobicoke,29,2023-06-23
+Fort McMurray,6,2023-06-23
+Grande Prairie,13,2023-06-23
+Guelph,9,2023-06-23
+Halifax,14,2023-06-23
+Hamilton,49,2023-06-23
+Kelowna,8,2023-06-23
+Kingston,9,2023-06-23
+Kitchener,14,2023-06-23
+Lethbridge,12,2023-06-23
+London,53,2023-06-23
+Mississauga,38,2023-06-23
+Moncton,10,2023-06-23
+Nanaimo,5,2023-06-23
+Nepean,11,2023-06-23
+Niagara Falls,9,2023-06-23
+North York,48,2023-06-23
+Oshawa,24,2023-06-23
+Ottawa,22,2023-06-23
+Peterborough,6,2023-06-23
+Prince George,11,2023-06-23
+Red Deer,7,2023-06-23
+Regina,15,2023-06-23
+Saint John,6,2023-06-23
+Saskatoon,20,2023-06-23
+Sault Ste. Marie,8,2023-06-23
+Scarborough,44,2023-06-23
+St Catharines,13,2023-06-23
+Sudbury,15,2023-06-23
+Surrey,40,2023-06-23
+Thunder Bay,3,2023-06-23
+Toronto,45,2023-06-23
+Vancouver,34,2023-06-23
+Victoria,16,2023-06-23
+Windsor,20,2023-06-23
+Winnipeg,51,2023-06-23
+York,18,2023-06-23
+Abbotsford,9,2023-06-24
+Barrie,20,2023-06-24
+Brampton,38,2023-06-24
+Brantford,11,2023-06-24
+Burnaby,2,2023-06-24
+Calgary,61,2023-06-24
+Cambridge,7,2023-06-24
+Chilliwack,8,2023-06-24
+Edmonton,90,2023-06-24
+Etobicoke,16,2023-06-24
+Fort McMurray,9,2023-06-24
+Grande Prairie,11,2023-06-24
+Guelph,16,2023-06-24
+Halifax,4,2023-06-24
+Hamilton,35,2023-06-24
+Kelowna,15,2023-06-24
+Kingston,12,2023-06-24
+Kitchener,22,2023-06-24
+Lethbridge,5,2023-06-24
+London,24,2023-06-24
+Mississauga,30,2023-06-24
+Moncton,6,2023-06-24
+Nanaimo,8,2023-06-24
+Nepean,5,2023-06-24
+Niagara Falls,7,2023-06-24
+North York,39,2023-06-24
+Oshawa,11,2023-06-24
+Ottawa,27,2023-06-24
+Peterborough,4,2023-06-24
+Prince George,11,2023-06-24
+Red Deer,11,2023-06-24
+Regina,7,2023-06-24
+Saint John,11,2023-06-24
+Saskatoon,13,2023-06-24
+Sault Ste. Marie,5,2023-06-24
+Scarborough,40,2023-06-24
+St Catharines,12,2023-06-24
+Sudbury,4,2023-06-24
+Surrey,34,2023-06-24
+Thunder Bay,6,2023-06-24
+Toronto,36,2023-06-24
+Vancouver,33,2023-06-24
+Victoria,7,2023-06-24
+Windsor,29,2023-06-24
+Winnipeg,33,2023-06-24
+York,9,2023-06-24
+Abbotsford,4,2023-06-25
+Barrie,15,2023-06-25
+Brampton,44,2023-06-25
+Brantford,13,2023-06-25
+Burnaby,7,2023-06-25
+Calgary,68,2023-06-25
+Cambridge,9,2023-06-25
+Chilliwack,8,2023-06-25
+Edmonton,65,2023-06-25
+Etobicoke,19,2023-06-25
+Fort McMurray,18,2023-06-25
+Grande Prairie,11,2023-06-25
+Guelph,4,2023-06-25
+Halifax,4,2023-06-25
+Hamilton,21,2023-06-25
+Kelowna,9,2023-06-25
+Kingston,9,2023-06-25
+Kitchener,19,2023-06-25
+Lethbridge,3,2023-06-25
+London,15,2023-06-25
+Mississauga,26,2023-06-25
+Moncton,6,2023-06-25
+Nanaimo,7,2023-06-25
+Nepean,3,2023-06-25
+Niagara Falls,6,2023-06-25
+North York,26,2023-06-25
+Oshawa,22,2023-06-25
+Ottawa,19,2023-06-25
+Peterborough,6,2023-06-25
+Prince George,10,2023-06-25
+Red Deer,10,2023-06-25
+Regina,15,2023-06-25
+Saint John,6,2023-06-25
+Saskatoon,17,2023-06-25
+Sault Ste. Marie,2,2023-06-25
+Scarborough,39,2023-06-25
+St Catharines,6,2023-06-25
+Sudbury,4,2023-06-25
+Surrey,35,2023-06-25
+Thunder Bay,8,2023-06-25
+Toronto,33,2023-06-25
+Vancouver,22,2023-06-25
+Victoria,3,2023-06-25
+Windsor,32,2023-06-25
+Winnipeg,51,2023-06-25
+York,6,2023-06-25
+Abbotsford,12,2023-06-26
+Barrie,19,2023-06-26
+Brampton,80,2023-06-26
+Brantford,20,2023-06-26
+Burnaby,16,2023-06-26
+Calgary,114,2023-06-26
+Cambridge,16,2023-06-26
+Chilliwack,11,2023-06-26
+Edmonton,143,2023-06-26
+Etobicoke,30,2023-06-26
+Fort McMurray,7,2023-06-26
+Grande Prairie,16,2023-06-26
+Guelph,21,2023-06-26
+Halifax,9,2023-06-26
+Hamilton,66,2023-06-26
+Kelowna,13,2023-06-26
+Kingston,20,2023-06-26
+Kitchener,26,2023-06-26
+Lethbridge,15,2023-06-26
+London,48,2023-06-26
+Mississauga,44,2023-06-26
+Moncton,16,2023-06-26
+Nanaimo,13,2023-06-26
+Nepean,13,2023-06-26
+Niagara Falls,14,2023-06-26
+North York,76,2023-06-26
+Oshawa,23,2023-06-26
+Ottawa,28,2023-06-26
+Peterborough,12,2023-06-26
+Prince George,10,2023-06-26
+Red Deer,12,2023-06-26
+Regina,17,2023-06-26
+Saint John,2,2023-06-26
+Saskatoon,17,2023-06-26
+Sault Ste. Marie,18,2023-06-26
+Scarborough,65,2023-06-26
+St Catharines,15,2023-06-26
+Sudbury,19,2023-06-26
+Surrey,49,2023-06-26
+Thunder Bay,12,2023-06-26
+Toronto,63,2023-06-26
+Vancouver,46,2023-06-26
+Victoria,14,2023-06-26
+Windsor,32,2023-06-26
+Winnipeg,70,2023-06-26
+York,6,2023-06-26
+Abbotsford,11,2023-06-27
+Barrie,16,2023-06-27
+Brampton,70,2023-06-27
+Brantford,13,2023-06-27
+Burnaby,10,2023-06-27
+Calgary,106,2023-06-27
+Cambridge,11,2023-06-27
+Chilliwack,11,2023-06-27
+Edmonton,116,2023-06-27
+Etobicoke,34,2023-06-27
+Fort McMurray,15,2023-06-27
+Grande Prairie,8,2023-06-27
+Guelph,5,2023-06-27
+Halifax,10,2023-06-27
+Hamilton,53,2023-06-27
+Kelowna,8,2023-06-27
+Kingston,13,2023-06-27
+Kitchener,28,2023-06-27
+Lethbridge,14,2023-06-27
+London,39,2023-06-27
+Mississauga,27,2023-06-27
+Moncton,7,2023-06-27
+Nanaimo,14,2023-06-27
+Nepean,6,2023-06-27
+Niagara Falls,9,2023-06-27
+North York,40,2023-06-27
+Oshawa,20,2023-06-27
+Ottawa,30,2023-06-27
+Peterborough,5,2023-06-27
+Prince George,13,2023-06-27
+Red Deer,13,2023-06-27
+Regina,13,2023-06-27
+Saint John,10,2023-06-27
+Saskatoon,18,2023-06-27
+Sault Ste. Marie,3,2023-06-27
+Scarborough,54,2023-06-27
+St Catharines,24,2023-06-27
+Sudbury,10,2023-06-27
+Surrey,43,2023-06-27
+Thunder Bay,16,2023-06-27
+Toronto,49,2023-06-27
+Vancouver,39,2023-06-27
+Victoria,11,2023-06-27
+Windsor,21,2023-06-27
+Winnipeg,73,2023-06-27
+York,13,2023-06-27
+Abbotsford,8,2023-06-28
+Barrie,13,2023-06-28
+Brampton,49,2023-06-28
+Brantford,7,2023-06-28
+Burnaby,5,2023-06-28
+Calgary,62,2023-06-28
+Cambridge,13,2023-06-28
+Chilliwack,3,2023-06-28
+Edmonton,91,2023-06-28
+Etobicoke,23,2023-06-28
+Fort McMurray,5,2023-06-28
+Grande Prairie,3,2023-06-28
+Guelph,3,2023-06-28
+Halifax,13,2023-06-28
+Hamilton,33,2023-06-28
+Kelowna,11,2023-06-28
+Kingston,13,2023-06-28
+Kitchener,19,2023-06-28
+Lethbridge,10,2023-06-28
+London,21,2023-06-28
+Mississauga,36,2023-06-28
+Moncton,11,2023-06-28
+Nanaimo,12,2023-06-28
+Nepean,11,2023-06-28
+Niagara Falls,3,2023-06-28
+North York,39,2023-06-28
+Oshawa,16,2023-06-28
+Ottawa,13,2023-06-28
+Peterborough,10,2023-06-28
+Prince George,5,2023-06-28
+Red Deer,10,2023-06-28
+Regina,9,2023-06-28
+Saint John,5,2023-06-28
+Saskatoon,12,2023-06-28
+Sault Ste. Marie,2,2023-06-28
+Scarborough,40,2023-06-28
+St Catharines,13,2023-06-28
+Sudbury,3,2023-06-28
+Surrey,42,2023-06-28
+Thunder Bay,13,2023-06-28
+Toronto,30,2023-06-28
+Vancouver,52,2023-06-28
+Victoria,8,2023-06-28
+Windsor,12,2023-06-28
+Winnipeg,37,2023-06-28
+York,12,2023-06-28
+Abbotsford,12,2023-06-29
+Barrie,22,2023-06-29
+Brampton,74,2023-06-29
+Brantford,27,2023-06-29
+Burnaby,12,2023-06-29
+Calgary,99,2023-06-29
+Cambridge,13,2023-06-29
+Chilliwack,11,2023-06-29
+Edmonton,115,2023-06-29
+Etobicoke,18,2023-06-29
+Fort McMurray,15,2023-06-29
+Grande Prairie,8,2023-06-29
+Guelph,9,2023-06-29
+Halifax,17,2023-06-29
+Hamilton,43,2023-06-29
+Kelowna,15,2023-06-29
+Kingston,14,2023-06-29
+Kitchener,30,2023-06-29
+Lethbridge,10,2023-06-29
+London,47,2023-06-29
+Mississauga,44,2023-06-29
+Moncton,11,2023-06-29
+Nanaimo,9,2023-06-29
+Nepean,11,2023-06-29
+Niagara Falls,5,2023-06-29
+North York,48,2023-06-29
+Oshawa,19,2023-06-29
+Ottawa,24,2023-06-29
+Peterborough,11,2023-06-29
+Prince George,8,2023-06-29
+Red Deer,14,2023-06-29
+Regina,10,2023-06-29
+Saint John,8,2023-06-29
+Saskatoon,18,2023-06-29
+Sault Ste. Marie,9,2023-06-29
+Scarborough,48,2023-06-29
+St Catharines,10,2023-06-29
+Sudbury,4,2023-06-29
+Surrey,48,2023-06-29
+Thunder Bay,10,2023-06-29
+Toronto,58,2023-06-29
+Vancouver,44,2023-06-29
+Victoria,19,2023-06-29
+Windsor,21,2023-06-29
+Winnipeg,68,2023-06-29
+York,8,2023-06-29
+Abbotsford,10,2023-06-30
+Barrie,12,2023-06-30
+Brampton,68,2023-06-30
+Brantford,10,2023-06-30
+Burnaby,12,2023-06-30
+Calgary,81,2023-06-30
+Cambridge,7,2023-06-30
+Chilliwack,11,2023-06-30
+Edmonton,74,2023-06-30
+Etobicoke,33,2023-06-30
+Fort McMurray,11,2023-06-30
+Grande Prairie,17,2023-06-30
+Guelph,8,2023-06-30
+Halifax,16,2023-06-30
+Hamilton,35,2023-06-30
+Kelowna,15,2023-06-30
+Kingston,12,2023-06-30
+Kitchener,25,2023-06-30
+Lethbridge,6,2023-06-30
+London,37,2023-06-30
+Mississauga,42,2023-06-30
+Moncton,8,2023-06-30
+Nanaimo,15,2023-06-30
+Nepean,5,2023-06-30
+Niagara Falls,14,2023-06-30
+North York,56,2023-06-30
+Oshawa,20,2023-06-30
+Ottawa,24,2023-06-30
+Peterborough,10,2023-06-30
+Prince George,3,2023-06-30
+Red Deer,14,2023-06-30
+Regina,9,2023-06-30
+Saint John,10,2023-06-30
+Saskatoon,11,2023-06-30
+Sault Ste. Marie,13,2023-06-30
+Scarborough,43,2023-06-30
+St Catharines,14,2023-06-30
+Sudbury,4,2023-06-30
+Surrey,57,2023-06-30
+Thunder Bay,6,2023-06-30
+Toronto,50,2023-06-30
+Vancouver,42,2023-06-30
+Victoria,15,2023-06-30
+Windsor,29,2023-06-30
+Winnipeg,57,2023-06-30
+York,19,2023-06-30
+Abbotsford,9,2023-07-01
+Barrie,16,2023-07-01
+Brampton,48,2023-07-01
+Brantford,5,2023-07-01
+Burnaby,3,2023-07-01
+Calgary,60,2023-07-01
+Cambridge,5,2023-07-01
+Chilliwack,6,2023-07-01
+Edmonton,71,2023-07-01
+Etobicoke,28,2023-07-01
+Fort McMurray,1,2023-07-01
+Grande Prairie,5,2023-07-01
+Guelph,6,2023-07-01
+Halifax,13,2023-07-01
+Hamilton,21,2023-07-01
+Kelowna,7,2023-07-01
+Kingston,5,2023-07-01
+Kitchener,16,2023-07-01
+Lethbridge,8,2023-07-01
+London,23,2023-07-01
+Mississauga,26,2023-07-01
+Moncton,2,2023-07-01
+Nanaimo,5,2023-07-01
+Nepean,3,2023-07-01
+Niagara Falls,4,2023-07-01
+North York,43,2023-07-01
+Oshawa,10,2023-07-01
+Ottawa,26,2023-07-01
+Peterborough,2,2023-07-01
+Prince George,4,2023-07-01
+Red Deer,12,2023-07-01
+Regina,7,2023-07-01
+Saint John,3,2023-07-01
+Saskatoon,13,2023-07-01
+Sault Ste. Marie,4,2023-07-01
+Scarborough,32,2023-07-01
+St Catharines,10,2023-07-01
+Sudbury,5,2023-07-01
+Surrey,39,2023-07-01
+Thunder Bay,3,2023-07-01
+Toronto,36,2023-07-01
+Vancouver,19,2023-07-01
+Victoria,8,2023-07-01
+Windsor,13,2023-07-01
+Winnipeg,48,2023-07-01
+York,11,2023-07-01
+Abbotsford,5,2023-07-02
+Barrie,8,2023-07-02
+Brampton,32,2023-07-02
+Brantford,5,2023-07-02
+Burnaby,11,2023-07-02
+Calgary,59,2023-07-02
+Cambridge,6,2023-07-02
+Chilliwack,7,2023-07-02
+Edmonton,67,2023-07-02
+Etobicoke,10,2023-07-02
+Fort McMurray,11,2023-07-02
+Grande Prairie,9,2023-07-02
+Guelph,4,2023-07-02
+Halifax,10,2023-07-02
+Hamilton,41,2023-07-02
+Kelowna,12,2023-07-02
+Kingston,10,2023-07-02
+Kitchener,16,2023-07-02
+Lethbridge,6,2023-07-02
+London,26,2023-07-02
+Mississauga,17,2023-07-02
+Moncton,6,2023-07-02
+Nanaimo,13,2023-07-02
+Nepean,5,2023-07-02
+Niagara Falls,1,2023-07-02
+North York,27,2023-07-02
+Oshawa,12,2023-07-02
+Ottawa,13,2023-07-02
+Peterborough,4,2023-07-02
+Prince George,6,2023-07-02
+Red Deer,6,2023-07-02
+Regina,9,2023-07-02
+Saint John,2,2023-07-02
+Saskatoon,11,2023-07-02
+Sault Ste. Marie,4,2023-07-02
+Scarborough,27,2023-07-02
+St Catharines,2,2023-07-02
+Sudbury,8,2023-07-02
+Surrey,21,2023-07-02
+Thunder Bay,5,2023-07-02
+Toronto,34,2023-07-02
+Vancouver,26,2023-07-02
+Victoria,3,2023-07-02
+Windsor,19,2023-07-02
+Winnipeg,44,2023-07-02
+York,8,2023-07-02
+Abbotsford,7,2023-07-03
+Barrie,11,2023-07-03
+Brampton,40,2023-07-03
+Brantford,8,2023-07-03
+Burnaby,7,2023-07-03
+Calgary,81,2023-07-03
+Cambridge,8,2023-07-03
+Chilliwack,9,2023-07-03
+Edmonton,75,2023-07-03
+Etobicoke,22,2023-07-03
+Fort McMurray,10,2023-07-03
+Grande Prairie,5,2023-07-03
+Guelph,4,2023-07-03
+Halifax,6,2023-07-03
+Hamilton,18,2023-07-03
+Kelowna,15,2023-07-03
+Kingston,5,2023-07-03
+Kitchener,19,2023-07-03
+Lethbridge,4,2023-07-03
+London,23,2023-07-03
+Mississauga,46,2023-07-03
+Moncton,6,2023-07-03
+Nanaimo,4,2023-07-03
+Nepean,3,2023-07-03
+Niagara Falls,4,2023-07-03
+North York,40,2023-07-03
+Oshawa,11,2023-07-03
+Ottawa,15,2023-07-03
+Peterborough,4,2023-07-03
+Prince George,5,2023-07-03
+Red Deer,12,2023-07-03
+Regina,15,2023-07-03
+Saint John,6,2023-07-03
+Saskatoon,13,2023-07-03
+Sault Ste. Marie,6,2023-07-03
+Scarborough,42,2023-07-03
+St Catharines,12,2023-07-03
+Sudbury,5,2023-07-03
+Surrey,26,2023-07-03
+Thunder Bay,7,2023-07-03
+Toronto,31,2023-07-03
+Vancouver,28,2023-07-03
+Victoria,16,2023-07-03
+Windsor,12,2023-07-03
+Winnipeg,44,2023-07-03
+York,14,2023-07-03
+Abbotsford,9,2023-07-04
+Barrie,12,2023-07-04
+Brampton,64,2023-07-04
+Brantford,11,2023-07-04
+Burnaby,24,2023-07-04
+Calgary,110,2023-07-04
+Cambridge,17,2023-07-04
+Chilliwack,11,2023-07-04
+Edmonton,124,2023-07-04
+Etobicoke,30,2023-07-04
+Fort McMurray,11,2023-07-04
+Grande Prairie,9,2023-07-04
+Guelph,8,2023-07-04
+Halifax,16,2023-07-04
+Hamilton,27,2023-07-04
+Kelowna,9,2023-07-04
+Kingston,13,2023-07-04
+Kitchener,29,2023-07-04
+Lethbridge,7,2023-07-04
+London,39,2023-07-04
+Mississauga,44,2023-07-04
+Moncton,11,2023-07-04
+Nanaimo,7,2023-07-04
+Nepean,7,2023-07-04
+Niagara Falls,13,2023-07-04
+North York,60,2023-07-04
+Oshawa,27,2023-07-04
+Ottawa,25,2023-07-04
+Peterborough,14,2023-07-04
+Prince George,5,2023-07-04
+Red Deer,16,2023-07-04
+Regina,14,2023-07-04
+Saint John,9,2023-07-04
+Saskatoon,19,2023-07-04
+Sault Ste. Marie,8,2023-07-04
+Scarborough,66,2023-07-04
+St Catharines,16,2023-07-04
+Sudbury,10,2023-07-04
+Surrey,36,2023-07-04
+Thunder Bay,9,2023-07-04
+Toronto,51,2023-07-04
+Vancouver,54,2023-07-04
+Victoria,15,2023-07-04
+Windsor,21,2023-07-04
+Winnipeg,70,2023-07-04
+York,25,2023-07-04
+Abbotsford,12,2023-07-05
+Barrie,12,2023-07-05
+Brampton,58,2023-07-05
+Brantford,10,2023-07-05
+Burnaby,14,2023-07-05
+Calgary,112,2023-07-05
+Cambridge,20,2023-07-05
+Chilliwack,11,2023-07-05
+Edmonton,100,2023-07-05
+Etobicoke,39,2023-07-05
+Fort McMurray,12,2023-07-05
+Grande Prairie,18,2023-07-05
+Guelph,7,2023-07-05
+Halifax,5,2023-07-05
+Hamilton,36,2023-07-05
+Kelowna,11,2023-07-05
+Kingston,10,2023-07-05
+Kitchener,35,2023-07-05
+Lethbridge,7,2023-07-05
+London,31,2023-07-05
+Mississauga,67,2023-07-05
+Moncton,2,2023-07-05
+Nanaimo,7,2023-07-05
+Nepean,6,2023-07-05
+Niagara Falls,11,2023-07-05
+North York,54,2023-07-05
+Oshawa,23,2023-07-05
+Ottawa,38,2023-07-05
+Peterborough,8,2023-07-05
+Prince George,8,2023-07-05
+Red Deer,14,2023-07-05
+Regina,13,2023-07-05
+Saint John,7,2023-07-05
+Saskatoon,17,2023-07-05
+Sault Ste. Marie,8,2023-07-05
+Scarborough,50,2023-07-05
+St Catharines,9,2023-07-05
+Sudbury,6,2023-07-05
+Surrey,47,2023-07-05
+Thunder Bay,11,2023-07-05
+Toronto,65,2023-07-05
+Vancouver,35,2023-07-05
+Victoria,9,2023-07-05
+Windsor,19,2023-07-05
+Winnipeg,77,2023-07-05
+York,11,2023-07-05
+Abbotsford,10,2023-07-06
+Barrie,13,2023-07-06
+Brampton,61,2023-07-06
+Brantford,15,2023-07-06
+Burnaby,12,2023-07-06
+Calgary,114,2023-07-06
+Cambridge,9,2023-07-06
+Chilliwack,13,2023-07-06
+Edmonton,93,2023-07-06
+Etobicoke,26,2023-07-06
+Fort McMurray,5,2023-07-06
+Grande Prairie,4,2023-07-06
+Guelph,12,2023-07-06
+Halifax,18,2023-07-06
+Hamilton,33,2023-07-06
+Kelowna,11,2023-07-06
+Kingston,12,2023-07-06
+Kitchener,16,2023-07-06
+Lethbridge,10,2023-07-06
+London,26,2023-07-06
+Mississauga,62,2023-07-06
+Moncton,7,2023-07-06
+Nanaimo,7,2023-07-06
+Nepean,8,2023-07-06
+Niagara Falls,9,2023-07-06
+North York,68,2023-07-06
+Oshawa,19,2023-07-06
+Ottawa,25,2023-07-06
+Peterborough,7,2023-07-06
+Prince George,2,2023-07-06
+Red Deer,12,2023-07-06
+Regina,13,2023-07-06
+Saint John,9,2023-07-06
+Saskatoon,23,2023-07-06
+Sault Ste. Marie,4,2023-07-06
+Scarborough,55,2023-07-06
+St Catharines,10,2023-07-06
+Sudbury,11,2023-07-06
+Surrey,61,2023-07-06
+Thunder Bay,7,2023-07-06
+Toronto,35,2023-07-06
+Vancouver,41,2023-07-06
+Victoria,7,2023-07-06
+Windsor,12,2023-07-06
+Winnipeg,55,2023-07-06
+York,9,2023-07-06
+Abbotsford,7,2023-07-07
+Barrie,12,2023-07-07
+Brampton,40,2023-07-07
+Brantford,10,2023-07-07
+Burnaby,13,2023-07-07
+Calgary,74,2023-07-07
+Cambridge,2,2023-07-07
+Chilliwack,8,2023-07-07
+Edmonton,83,2023-07-07
+Etobicoke,15,2023-07-07
+Fort McMurray,9,2023-07-07
+Grande Prairie,10,2023-07-07
+Guelph,17,2023-07-07
+Halifax,7,2023-07-07
+Hamilton,26,2023-07-07
+Kelowna,3,2023-07-07
+Kingston,9,2023-07-07
+Kitchener,20,2023-07-07
+Lethbridge,6,2023-07-07
+London,19,2023-07-07
+Mississauga,45,2023-07-07
+Moncton,7,2023-07-07
+Nanaimo,5,2023-07-07
+Nepean,11,2023-07-07
+Niagara Falls,2,2023-07-07
+North York,41,2023-07-07
+Oshawa,16,2023-07-07
+Ottawa,22,2023-07-07
+Peterborough,4,2023-07-07
+Prince George,2,2023-07-07
+Red Deer,8,2023-07-07
+Regina,6,2023-07-07
+Saint John,4,2023-07-07
+Saskatoon,20,2023-07-07
+Sault Ste. Marie,5,2023-07-07
+Scarborough,46,2023-07-07
+St Catharines,8,2023-07-07
+Sudbury,7,2023-07-07
+Surrey,37,2023-07-07
+Thunder Bay,8,2023-07-07
+Toronto,41,2023-07-07
+Vancouver,21,2023-07-07
+Victoria,6,2023-07-07
+Windsor,16,2023-07-07
+Winnipeg,43,2023-07-07
+York,10,2023-07-07
+Abbotsford,8,2023-07-08
+Barrie,16,2023-07-08
+Brampton,27,2023-07-08
+Brantford,7,2023-07-08
+Burnaby,6,2023-07-08
+Calgary,67,2023-07-08
+Cambridge,3,2023-07-08
+Chilliwack,5,2023-07-08
+Edmonton,81,2023-07-08
+Etobicoke,23,2023-07-08
+Fort McMurray,8,2023-07-08
+Grande Prairie,4,2023-07-08
+Guelph,4,2023-07-08
+Halifax,6,2023-07-08
+Hamilton,15,2023-07-08
+Kelowna,9,2023-07-08
+Kingston,9,2023-07-08
+Kitchener,12,2023-07-08
+Lethbridge,4,2023-07-08
+London,17,2023-07-08
+Mississauga,30,2023-07-08
+Moncton,3,2023-07-08
+Nanaimo,2,2023-07-08
+Nepean,3,2023-07-08
+Niagara Falls,4,2023-07-08
+North York,38,2023-07-08
+Oshawa,15,2023-07-08
+Ottawa,10,2023-07-08
+Peterborough,4,2023-07-08
+Prince George,10,2023-07-08
+Red Deer,6,2023-07-08
+Regina,11,2023-07-08
+Saint John,4,2023-07-08
+Saskatoon,9,2023-07-08
+Sault Ste. Marie,5,2023-07-08
+Scarborough,28,2023-07-08
+St Catharines,11,2023-07-08
+Sudbury,6,2023-07-08
+Surrey,22,2023-07-08
+Thunder Bay,14,2023-07-08
+Toronto,31,2023-07-08
+Vancouver,26,2023-07-08
+Victoria,12,2023-07-08
+Windsor,17,2023-07-08
+Winnipeg,38,2023-07-08
+York,9,2023-07-08
+Abbotsford,13,2023-07-09
+Barrie,9,2023-07-09
+Brampton,39,2023-07-09
+Brantford,4,2023-07-09
+Burnaby,6,2023-07-09
+Calgary,46,2023-07-09
+Cambridge,6,2023-07-09
+Chilliwack,3,2023-07-09
+Edmonton,65,2023-07-09
+Etobicoke,12,2023-07-09
+Fort McMurray,11,2023-07-09
+Grande Prairie,10,2023-07-09
+Guelph,3,2023-07-09
+Halifax,5,2023-07-09
+Hamilton,23,2023-07-09
+Kelowna,7,2023-07-09
+Kingston,5,2023-07-09
+Kitchener,6,2023-07-09
+Lethbridge,4,2023-07-09
+London,15,2023-07-09
+Mississauga,19,2023-07-09
+Moncton,5,2023-07-09
+Nanaimo,6,2023-07-09
+Nepean,3,2023-07-09
+Niagara Falls,1,2023-07-09
+North York,27,2023-07-09
+Oshawa,15,2023-07-09
+Ottawa,14,2023-07-09
+Peterborough,4,2023-07-09
+Prince George,5,2023-07-09
+Red Deer,8,2023-07-09
+Regina,13,2023-07-09
+Saint John,2,2023-07-09
+Saskatoon,7,2023-07-09
+Sault Ste. Marie,3,2023-07-09
+Scarborough,27,2023-07-09
+St Catharines,15,2023-07-09
+Surrey,17,2023-07-09
+Thunder Bay,5,2023-07-09
+Toronto,29,2023-07-09
+Vancouver,24,2023-07-09
+Victoria,10,2023-07-09
+Windsor,9,2023-07-09
+Winnipeg,47,2023-07-09
+York,5,2023-07-09
+Abbotsford,15,2023-07-10
+Barrie,19,2023-07-10
+Brampton,76,2023-07-10
+Brantford,22,2023-07-10
+Burnaby,18,2023-07-10
+Calgary,116,2023-07-10
+Cambridge,14,2023-07-10
+Chilliwack,16,2023-07-10
+Edmonton,117,2023-07-10
+Etobicoke,24,2023-07-10
+Fort McMurray,7,2023-07-10
+Grande Prairie,13,2023-07-10
+Guelph,9,2023-07-10
+Halifax,25,2023-07-10
+Hamilton,45,2023-07-10
+Kelowna,12,2023-07-10
+Kingston,6,2023-07-10
+Kitchener,22,2023-07-10
+Lethbridge,6,2023-07-10
+London,36,2023-07-10
+Mississauga,50,2023-07-10
+Moncton,11,2023-07-10
+Nanaimo,14,2023-07-10
+Nepean,15,2023-07-10
+Niagara Falls,6,2023-07-10
+North York,55,2023-07-10
+Oshawa,17,2023-07-10
+Ottawa,32,2023-07-10
+Peterborough,7,2023-07-10
+Prince George,3,2023-07-10
+Red Deer,8,2023-07-10
+Regina,13,2023-07-10
+Saint John,10,2023-07-10
+Saskatoon,20,2023-07-10
+Sault Ste. Marie,13,2023-07-10
+Scarborough,64,2023-07-10
+St Catharines,12,2023-07-10
+Sudbury,14,2023-07-10
+Surrey,48,2023-07-10
+Thunder Bay,9,2023-07-10
+Toronto,51,2023-07-10
+Vancouver,39,2023-07-10
+Victoria,17,2023-07-10
+Windsor,30,2023-07-10
+Winnipeg,72,2023-07-10
+York,21,2023-07-10
+Abbotsford,3,2023-07-11
+Barrie,8,2023-07-11
+Brampton,69,2023-07-11
+Brantford,23,2023-07-11
+Burnaby,28,2023-07-11
+Calgary,97,2023-07-11
+Cambridge,16,2023-07-11
+Chilliwack,10,2023-07-11
+Edmonton,108,2023-07-11
+Etobicoke,34,2023-07-11
+Fort McMurray,13,2023-07-11
+Grande Prairie,14,2023-07-11
+Guelph,13,2023-07-11
+Halifax,14,2023-07-11
+Hamilton,28,2023-07-11
+Kelowna,14,2023-07-11
+Kingston,13,2023-07-11
+Kitchener,21,2023-07-11
+Lethbridge,10,2023-07-11
+London,38,2023-07-11
+Mississauga,51,2023-07-11
+Moncton,12,2023-07-11
+Nanaimo,7,2023-07-11
+Nepean,8,2023-07-11
+Niagara Falls,12,2023-07-11
+North York,51,2023-07-11
+Oshawa,29,2023-07-11
+Ottawa,25,2023-07-11
+Peterborough,11,2023-07-11
+Prince George,11,2023-07-11
+Red Deer,20,2023-07-11
+Regina,24,2023-07-11
+Saint John,11,2023-07-11
+Saskatoon,22,2023-07-11
+Sault Ste. Marie,6,2023-07-11
+Scarborough,72,2023-07-11
+St Catharines,9,2023-07-11
+Sudbury,12,2023-07-11
+Surrey,46,2023-07-11
+Thunder Bay,16,2023-07-11
+Toronto,49,2023-07-11
+Vancouver,44,2023-07-11
+Victoria,18,2023-07-11
+Windsor,28,2023-07-11
+Winnipeg,85,2023-07-11
+York,15,2023-07-11
+Abbotsford,16,2023-07-12
+Barrie,26,2023-07-12
+Brampton,81,2023-07-12
+Brantford,17,2023-07-12
+Burnaby,13,2023-07-12
+Calgary,135,2023-07-12
+Cambridge,11,2023-07-12
+Chilliwack,7,2023-07-12
+Edmonton,139,2023-07-12
+Etobicoke,45,2023-07-12
+Fort McMurray,16,2023-07-12
+Grande Prairie,12,2023-07-12
+Guelph,12,2023-07-12
+Halifax,16,2023-07-12
+Hamilton,41,2023-07-12
+Kelowna,21,2023-07-12
+Kingston,20,2023-07-12
+Kitchener,30,2023-07-12
+Lethbridge,6,2023-07-12
+London,52,2023-07-12
+Mississauga,55,2023-07-12
+Moncton,12,2023-07-12
+Nanaimo,7,2023-07-12
+Nepean,9,2023-07-12
+Niagara Falls,18,2023-07-12
+North York,80,2023-07-12
+Oshawa,26,2023-07-12
+Ottawa,27,2023-07-12
+Peterborough,14,2023-07-12
+Prince George,8,2023-07-12
+Red Deer,22,2023-07-12
+Regina,25,2023-07-12
+Saint John,6,2023-07-12
+Saskatoon,23,2023-07-12
+Sault Ste. Marie,17,2023-07-12
+Scarborough,62,2023-07-12
+St Catharines,17,2023-07-12
+Sudbury,14,2023-07-12
+Surrey,47,2023-07-12
+Thunder Bay,6,2023-07-12
+Toronto,55,2023-07-12
+Vancouver,41,2023-07-12
+Victoria,20,2023-07-12
+Windsor,31,2023-07-12
+Winnipeg,90,2023-07-12
+York,11,2023-07-12
+Abbotsford,9,2023-07-13
+Barrie,20,2023-07-13
+Brampton,68,2023-07-13
+Brantford,9,2023-07-13
+Burnaby,18,2023-07-13
+Calgary,95,2023-07-13
+Cambridge,11,2023-07-13
+Chilliwack,7,2023-07-13
+Edmonton,101,2023-07-13
+Etobicoke,34,2023-07-13
+Fort McMurray,6,2023-07-13
+Grande Prairie,6,2023-07-13
+Guelph,6,2023-07-13
+Halifax,11,2023-07-13
+Hamilton,54,2023-07-13
+Kelowna,12,2023-07-13
+Kingston,5,2023-07-13
+Kitchener,22,2023-07-13
+Lethbridge,5,2023-07-13
+London,30,2023-07-13
+Mississauga,39,2023-07-13
+Moncton,8,2023-07-13
+Nanaimo,9,2023-07-13
+Nepean,6,2023-07-13
+Niagara Falls,3,2023-07-13
+North York,52,2023-07-13
+Oshawa,21,2023-07-13
+Ottawa,25,2023-07-13
+Peterborough,16,2023-07-13
+Prince George,9,2023-07-13
+Red Deer,17,2023-07-13
+Regina,17,2023-07-13
+Saint John,6,2023-07-13
+Saskatoon,20,2023-07-13
+Sault Ste. Marie,7,2023-07-13
+Scarborough,53,2023-07-13
+St Catharines,20,2023-07-13
+Sudbury,9,2023-07-13
+Surrey,56,2023-07-13
+Thunder Bay,6,2023-07-13
+Toronto,40,2023-07-13
+Vancouver,25,2023-07-13
+Victoria,9,2023-07-13
+Windsor,20,2023-07-13
+Winnipeg,50,2023-07-13
+York,9,2023-07-13
+Abbotsford,7,2023-07-14
+Barrie,12,2023-07-14
+Brampton,36,2023-07-14
+Brantford,15,2023-07-14
+Burnaby,7,2023-07-14
+Calgary,57,2023-07-14
+Cambridge,11,2023-07-14
+Chilliwack,4,2023-07-14
+Edmonton,79,2023-07-14
+Etobicoke,16,2023-07-14
+Fort McMurray,6,2023-07-14
+Grande Prairie,6,2023-07-14
+Guelph,2,2023-07-14
+Halifax,10,2023-07-14
+Hamilton,21,2023-07-14
+Kelowna,6,2023-07-14
+Kingston,5,2023-07-14
+Kitchener,17,2023-07-14
+Lethbridge,5,2023-07-14
+London,26,2023-07-14
+Mississauga,35,2023-07-14
+Moncton,6,2023-07-14
+Nanaimo,8,2023-07-14
+Nepean,7,2023-07-14
+Niagara Falls,4,2023-07-14
+North York,43,2023-07-14
+Oshawa,14,2023-07-14
+Ottawa,22,2023-07-14
+Peterborough,7,2023-07-14
+Prince George,5,2023-07-14
+Red Deer,7,2023-07-14
+Regina,14,2023-07-14
+Saint John,9,2023-07-14
+Saskatoon,18,2023-07-14
+Sault Ste. Marie,2,2023-07-14
+Scarborough,35,2023-07-14
+St Catharines,8,2023-07-14
+Sudbury,4,2023-07-14
+Surrey,35,2023-07-14
+Thunder Bay,8,2023-07-14
+Toronto,41,2023-07-14
+Vancouver,37,2023-07-14
+Victoria,10,2023-07-14
+Windsor,25,2023-07-14
+Winnipeg,54,2023-07-14
+York,6,2023-07-14
+Abbotsford,5,2023-07-15
+Barrie,13,2023-07-15
+Brampton,38,2023-07-15
+Brantford,10,2023-07-15
+Burnaby,6,2023-07-15
+Calgary,59,2023-07-15
+Cambridge,13,2023-07-15
+Chilliwack,7,2023-07-15
+Edmonton,77,2023-07-15
+Etobicoke,15,2023-07-15
+Fort McMurray,13,2023-07-15
+Grande Prairie,4,2023-07-15
+Guelph,7,2023-07-15
+Halifax,11,2023-07-15
+Hamilton,25,2023-07-15
+Kelowna,5,2023-07-15
+Kingston,8,2023-07-15
+Kitchener,12,2023-07-15
+Lethbridge,3,2023-07-15
+London,30,2023-07-15
+Mississauga,23,2023-07-15
+Moncton,3,2023-07-15
+Nanaimo,4,2023-07-15
+Nepean,6,2023-07-15
+Niagara Falls,7,2023-07-15
+North York,31,2023-07-15
+Oshawa,14,2023-07-15
+Ottawa,29,2023-07-15
+Peterborough,7,2023-07-15
+Prince George,6,2023-07-15
+Red Deer,9,2023-07-15
+Regina,7,2023-07-15
+Saint John,6,2023-07-15
+Saskatoon,16,2023-07-15
+Sault Ste. Marie,9,2023-07-15
+Scarborough,27,2023-07-15
+St Catharines,6,2023-07-15
+Sudbury,6,2023-07-15
+Surrey,27,2023-07-15
+Thunder Bay,2,2023-07-15
+Toronto,32,2023-07-15
+Vancouver,19,2023-07-15
+Victoria,18,2023-07-15
+Windsor,16,2023-07-15
+Winnipeg,46,2023-07-15
+York,7,2023-07-15
+Abbotsford,6,2023-07-16
+Barrie,11,2023-07-16
+Brampton,26,2023-07-16
+Brantford,10,2023-07-16
+Burnaby,6,2023-07-16
+Calgary,68,2023-07-16
+Cambridge,8,2023-07-16
+Chilliwack,10,2023-07-16
+Edmonton,74,2023-07-16
+Etobicoke,16,2023-07-16
+Fort McMurray,7,2023-07-16
+Grande Prairie,6,2023-07-16
+Guelph,5,2023-07-16
+Halifax,9,2023-07-16
+Hamilton,23,2023-07-16
+Kelowna,3,2023-07-16
+Kingston,5,2023-07-16
+Kitchener,10,2023-07-16
+Lethbridge,11,2023-07-16
+London,17,2023-07-16
+Mississauga,21,2023-07-16
+Moncton,8,2023-07-16
+Nanaimo,2,2023-07-16
+Nepean,5,2023-07-16
+Niagara Falls,3,2023-07-16
+North York,34,2023-07-16
+Oshawa,10,2023-07-16
+Ottawa,18,2023-07-16
+Peterborough,1,2023-07-16
+Prince George,3,2023-07-16
+Red Deer,12,2023-07-16
+Regina,9,2023-07-16
+Saint John,9,2023-07-16
+Saskatoon,14,2023-07-16
+Sault Ste. Marie,3,2023-07-16
+Scarborough,29,2023-07-16
+St Catharines,6,2023-07-16
+Sudbury,6,2023-07-16
+Surrey,21,2023-07-16
+Thunder Bay,5,2023-07-16
+Toronto,28,2023-07-16
+Vancouver,24,2023-07-16
+Victoria,8,2023-07-16
+Windsor,16,2023-07-16
+Winnipeg,36,2023-07-16
+York,10,2023-07-16
+Abbotsford,11,2023-07-17
+Barrie,11,2023-07-17
+Brampton,55,2023-07-17
+Brantford,12,2023-07-17
+Burnaby,11,2023-07-17
+Calgary,78,2023-07-17
+Cambridge,9,2023-07-17
+Chilliwack,11,2023-07-17
+Edmonton,95,2023-07-17
+Etobicoke,19,2023-07-17
+Fort McMurray,11,2023-07-17
+Grande Prairie,6,2023-07-17
+Guelph,5,2023-07-17
+Halifax,11,2023-07-17
+Hamilton,37,2023-07-17
+Kelowna,12,2023-07-17
+Kingston,7,2023-07-17
+Kitchener,16,2023-07-17
+Lethbridge,9,2023-07-17
+London,28,2023-07-17
+Mississauga,44,2023-07-17
+Moncton,7,2023-07-17
+Nanaimo,4,2023-07-17
+Nepean,12,2023-07-17
+Niagara Falls,16,2023-07-17
+North York,39,2023-07-17
+Oshawa,31,2023-07-17
+Ottawa,25,2023-07-17
+Peterborough,6,2023-07-17
+Prince George,11,2023-07-17
+Red Deer,14,2023-07-17
+Regina,16,2023-07-17
+Saint John,5,2023-07-17
+Saskatoon,23,2023-07-17
+Sault Ste. Marie,9,2023-07-17
+Scarborough,56,2023-07-17
+St Catharines,8,2023-07-17
+Sudbury,6,2023-07-17
+Surrey,36,2023-07-17
+Thunder Bay,7,2023-07-17
+Toronto,44,2023-07-17
+Vancouver,24,2023-07-17
+Victoria,11,2023-07-17
+Windsor,15,2023-07-17
+Winnipeg,43,2023-07-17
+York,14,2023-07-17
+Abbotsford,7,2023-07-18
+Barrie,19,2023-07-18
+Brampton,55,2023-07-18
+Brantford,11,2023-07-18
+Burnaby,21,2023-07-18
+Calgary,97,2023-07-18
+Cambridge,16,2023-07-18
+Chilliwack,4,2023-07-18
+Edmonton,130,2023-07-18
+Etobicoke,28,2023-07-18
+Fort McMurray,14,2023-07-18
+Grande Prairie,9,2023-07-18
+Guelph,11,2023-07-18
+Halifax,12,2023-07-18
+Hamilton,41,2023-07-18
+Kelowna,15,2023-07-18
+Kingston,14,2023-07-18
+Kitchener,32,2023-07-18
+Lethbridge,10,2023-07-18
+London,27,2023-07-18
+Mississauga,51,2023-07-18
+Moncton,7,2023-07-18
+Nanaimo,10,2023-07-18
+Nepean,11,2023-07-18
+Niagara Falls,9,2023-07-18
+North York,67,2023-07-18
+Oshawa,22,2023-07-18
+Ottawa,26,2023-07-18
+Peterborough,9,2023-07-18
+Prince George,5,2023-07-18
+Red Deer,13,2023-07-18
+Regina,13,2023-07-18
+Saint John,3,2023-07-18
+Saskatoon,23,2023-07-18
+Sault Ste. Marie,16,2023-07-18
+Scarborough,52,2023-07-18
+St Catharines,15,2023-07-18
+Sudbury,14,2023-07-18
+Surrey,36,2023-07-18
+Thunder Bay,14,2023-07-18
+Toronto,54,2023-07-18
+Vancouver,37,2023-07-18
+Victoria,13,2023-07-18
+Windsor,29,2023-07-18
+Winnipeg,77,2023-07-18
+York,8,2023-07-18
+Abbotsford,11,2023-07-19
+Barrie,26,2023-07-19
+Brampton,75,2023-07-19
+Brantford,7,2023-07-19
+Burnaby,12,2023-07-19
+Calgary,92,2023-07-19
+Cambridge,8,2023-07-19
+Chilliwack,3,2023-07-19
+Edmonton,127,2023-07-19
+Etobicoke,28,2023-07-19
+Fort McMurray,12,2023-07-19
+Grande Prairie,19,2023-07-19
+Guelph,15,2023-07-19
+Halifax,12,2023-07-19
+Hamilton,19,2023-07-19
+Kelowna,10,2023-07-19
+Kingston,15,2023-07-19
+Kitchener,26,2023-07-19
+Lethbridge,8,2023-07-19
+London,42,2023-07-19
+Mississauga,42,2023-07-19
+Moncton,9,2023-07-19
+Nanaimo,3,2023-07-19
+Nepean,13,2023-07-19
+Niagara Falls,14,2023-07-19
+North York,62,2023-07-19
+Oshawa,22,2023-07-19
+Ottawa,34,2023-07-19
+Peterborough,4,2023-07-19
+Prince George,3,2023-07-19
+Red Deer,17,2023-07-19
+Regina,17,2023-07-19
+Saint John,8,2023-07-19
+Saskatoon,22,2023-07-19
+Sault Ste. Marie,19,2023-07-19
+Scarborough,55,2023-07-19
+St Catharines,16,2023-07-19
+Sudbury,12,2023-07-19
+Surrey,39,2023-07-19
+Thunder Bay,7,2023-07-19
+Toronto,44,2023-07-19
+Vancouver,31,2023-07-19
+Victoria,11,2023-07-19
+Windsor,26,2023-07-19
+Winnipeg,93,2023-07-19
+York,11,2023-07-19
+Abbotsford,7,2023-07-20
+Barrie,19,2023-07-20
+Brampton,62,2023-07-20
+Brantford,5,2023-07-20
+Burnaby,11,2023-07-20
+Calgary,112,2023-07-20
+Cambridge,13,2023-07-20
+Chilliwack,3,2023-07-20
+Edmonton,95,2023-07-20
+Etobicoke,30,2023-07-20
+Fort McMurray,13,2023-07-20
+Grande Prairie,24,2023-07-20
+Guelph,6,2023-07-20
+Halifax,10,2023-07-20
+Hamilton,25,2023-07-20
+Kelowna,3,2023-07-20
+Kingston,8,2023-07-20
+Kitchener,15,2023-07-20
+Lethbridge,9,2023-07-20
+London,37,2023-07-20
+Mississauga,39,2023-07-20
+Moncton,7,2023-07-20
+Nanaimo,6,2023-07-20
+Nepean,13,2023-07-20
+Niagara Falls,10,2023-07-20
+North York,61,2023-07-20
+Oshawa,30,2023-07-20
+Ottawa,16,2023-07-20
+Peterborough,8,2023-07-20
+Prince George,4,2023-07-20
+Red Deer,10,2023-07-20
+Regina,13,2023-07-20
+Saint John,7,2023-07-20
+Saskatoon,17,2023-07-20
+Sault Ste. Marie,8,2023-07-20
+Scarborough,46,2023-07-20
+St Catharines,12,2023-07-20
+Sudbury,20,2023-07-20
+Surrey,35,2023-07-20
+Thunder Bay,8,2023-07-20
+Toronto,46,2023-07-20
+Vancouver,28,2023-07-20
+Victoria,13,2023-07-20
+Windsor,20,2023-07-20
+Winnipeg,58,2023-07-20
+York,12,2023-07-20
+Abbotsford,18,2023-07-21
+Barrie,11,2023-07-21
+Brampton,51,2023-07-21
+Brantford,12,2023-07-21
+Burnaby,4,2023-07-21
+Calgary,86,2023-07-21
+Cambridge,8,2023-07-21
+Chilliwack,12,2023-07-21
+Edmonton,74,2023-07-21
+Etobicoke,25,2023-07-21
+Fort McMurray,6,2023-07-21
+Grande Prairie,6,2023-07-21
+Guelph,5,2023-07-21
+Halifax,11,2023-07-21
+Hamilton,27,2023-07-21
+Kelowna,9,2023-07-21
+Kingston,5,2023-07-21
+Kitchener,17,2023-07-21
+Lethbridge,7,2023-07-21
+London,27,2023-07-21
+Mississauga,29,2023-07-21
+Moncton,2,2023-07-21
+Nanaimo,8,2023-07-21
+Nepean,6,2023-07-21
+Niagara Falls,6,2023-07-21
+North York,51,2023-07-21
+Oshawa,17,2023-07-21
+Ottawa,23,2023-07-21
+Peterborough,12,2023-07-21
+Prince George,7,2023-07-21
+Red Deer,7,2023-07-21
+Regina,19,2023-07-21
+Saint John,4,2023-07-21
+Saskatoon,17,2023-07-21
+Sault Ste. Marie,9,2023-07-21
+Scarborough,37,2023-07-21
+St Catharines,7,2023-07-21
+Sudbury,15,2023-07-21
+Surrey,27,2023-07-21
+Thunder Bay,4,2023-07-21
+Toronto,39,2023-07-21
+Vancouver,20,2023-07-21
+Victoria,10,2023-07-21
+Windsor,21,2023-07-21
+Winnipeg,52,2023-07-21
+York,14,2023-07-21
+Abbotsford,5,2023-07-22
+Barrie,15,2023-07-22
+Brampton,30,2023-07-22
+Brantford,10,2023-07-22
+Burnaby,9,2023-07-22
+Calgary,84,2023-07-22
+Cambridge,3,2023-07-22
+Chilliwack,3,2023-07-22
+Edmonton,69,2023-07-22
+Etobicoke,14,2023-07-22
+Fort McMurray,4,2023-07-22
+Grande Prairie,4,2023-07-22
+Guelph,9,2023-07-22
+Halifax,20,2023-07-22
+Hamilton,29,2023-07-22
+Kelowna,5,2023-07-22
+Kingston,12,2023-07-22
+Kitchener,14,2023-07-22
+Lethbridge,10,2023-07-22
+London,24,2023-07-22
+Mississauga,43,2023-07-22
+Moncton,3,2023-07-22
+Nanaimo,6,2023-07-22
+Nepean,1,2023-07-22
+Niagara Falls,5,2023-07-22
+North York,42,2023-07-22
+Oshawa,12,2023-07-22
+Ottawa,25,2023-07-22
+Peterborough,3,2023-07-22
+Prince George,13,2023-07-22
+Red Deer,10,2023-07-22
+Regina,5,2023-07-22
+Saint John,12,2023-07-22
+Saskatoon,23,2023-07-22
+Sault Ste. Marie,6,2023-07-22
+Scarborough,23,2023-07-22
+St Catharines,11,2023-07-22
+Sudbury,8,2023-07-22
+Surrey,25,2023-07-22
+Thunder Bay,6,2023-07-22
+Toronto,38,2023-07-22
+Vancouver,19,2023-07-22
+Victoria,9,2023-07-22
+Windsor,25,2023-07-22
+Winnipeg,38,2023-07-22
+York,8,2023-07-22
+Abbotsford,6,2023-07-23
+Barrie,10,2023-07-23
+Brampton,33,2023-07-23
+Brantford,9,2023-07-23
+Burnaby,8,2023-07-23
+Calgary,59,2023-07-23
+Cambridge,7,2023-07-23
+Chilliwack,4,2023-07-23
+Edmonton,72,2023-07-23
+Etobicoke,20,2023-07-23
+Fort McMurray,2,2023-07-23
+Grande Prairie,8,2023-07-23
+Guelph,9,2023-07-23
+Halifax,9,2023-07-23
+Hamilton,29,2023-07-23
+Kelowna,5,2023-07-23
+Kingston,12,2023-07-23
+Kitchener,15,2023-07-23
+Lethbridge,4,2023-07-23
+London,27,2023-07-23
+Mississauga,21,2023-07-23
+Moncton,8,2023-07-23
+Nepean,4,2023-07-23
+Niagara Falls,11,2023-07-23
+North York,38,2023-07-23
+Oshawa,10,2023-07-23
+Ottawa,19,2023-07-23
+Peterborough,5,2023-07-23
+Prince George,7,2023-07-23
+Red Deer,3,2023-07-23
+Regina,11,2023-07-23
+Saint John,8,2023-07-23
+Saskatoon,13,2023-07-23
+Sault Ste. Marie,5,2023-07-23
+Scarborough,27,2023-07-23
+St Catharines,6,2023-07-23
+Sudbury,12,2023-07-23
+Surrey,22,2023-07-23
+Thunder Bay,4,2023-07-23
+Toronto,22,2023-07-23
+Vancouver,19,2023-07-23
+Victoria,5,2023-07-23
+Windsor,19,2023-07-23
+Winnipeg,24,2023-07-23
+York,15,2023-07-23
+Abbotsford,11,2023-07-24
+Barrie,19,2023-07-24
+Brampton,47,2023-07-24
+Brantford,13,2023-07-24
+Burnaby,10,2023-07-24
+Calgary,85,2023-07-24
+Cambridge,8,2023-07-24
+Chilliwack,8,2023-07-24
+Edmonton,90,2023-07-24
+Etobicoke,15,2023-07-24
+Fort McMurray,7,2023-07-24
+Grande Prairie,10,2023-07-24
+Guelph,2,2023-07-24
+Halifax,6,2023-07-24
+Hamilton,28,2023-07-24
+Kelowna,10,2023-07-24
+Kingston,7,2023-07-24
+Kitchener,11,2023-07-24
+Lethbridge,4,2023-07-24
+London,35,2023-07-24
+Mississauga,40,2023-07-24
+Moncton,7,2023-07-24
+Nanaimo,6,2023-07-24
+Nepean,7,2023-07-24
+Niagara Falls,8,2023-07-24
+North York,54,2023-07-24
+Oshawa,19,2023-07-24
+Ottawa,22,2023-07-24
+Peterborough,10,2023-07-24
+Prince George,9,2023-07-24
+Red Deer,8,2023-07-24
+Regina,15,2023-07-24
+Saint John,8,2023-07-24
+Saskatoon,16,2023-07-24
+Sault Ste. Marie,7,2023-07-24
+Scarborough,54,2023-07-24
+St Catharines,12,2023-07-24
+Sudbury,10,2023-07-24
+Surrey,34,2023-07-24
+Thunder Bay,9,2023-07-24
+Toronto,50,2023-07-24
+Vancouver,32,2023-07-24
+Victoria,8,2023-07-24
+Windsor,18,2023-07-24
+Winnipeg,58,2023-07-24
+York,9,2023-07-24
+Abbotsford,8,2023-07-25
+Barrie,16,2023-07-25
+Brampton,60,2023-07-25
+Brantford,6,2023-07-25
+Burnaby,7,2023-07-25
+Calgary,84,2023-07-25
+Cambridge,10,2023-07-25
+Chilliwack,7,2023-07-25
+Edmonton,113,2023-07-25
+Etobicoke,39,2023-07-25
+Fort McMurray,4,2023-07-25
+Grande Prairie,12,2023-07-25
+Guelph,7,2023-07-25
+Halifax,4,2023-07-25
+Hamilton,37,2023-07-25
+Kelowna,6,2023-07-25
+Kingston,4,2023-07-25
+Kitchener,19,2023-07-25
+Lethbridge,10,2023-07-25
+London,34,2023-07-25
+Mississauga,43,2023-07-25
+Moncton,12,2023-07-25
+Nanaimo,11,2023-07-25
+Nepean,6,2023-07-25
+Niagara Falls,11,2023-07-25
+North York,49,2023-07-25
+Oshawa,12,2023-07-25
+Ottawa,24,2023-07-25
+Peterborough,8,2023-07-25
+Prince George,5,2023-07-25
+Red Deer,17,2023-07-25
+Regina,12,2023-07-25
+Saint John,7,2023-07-25
+Saskatoon,22,2023-07-25
+Sault Ste. Marie,14,2023-07-25
+Scarborough,45,2023-07-25
+St Catharines,19,2023-07-25
+Sudbury,14,2023-07-25
+Surrey,42,2023-07-25
+Thunder Bay,6,2023-07-25
+Toronto,42,2023-07-25
+Vancouver,26,2023-07-25
+Victoria,11,2023-07-25
+Windsor,27,2023-07-25
+Winnipeg,60,2023-07-25
+York,8,2023-07-25
+Abbotsford,8,2023-07-26
+Barrie,14,2023-07-26
+Brampton,69,2023-07-26
+Brantford,10,2023-07-26
+Burnaby,12,2023-07-26
+Calgary,93,2023-07-26
+Cambridge,19,2023-07-26
+Chilliwack,8,2023-07-26
+Edmonton,123,2023-07-26
+Etobicoke,27,2023-07-26
+Fort McMurray,14,2023-07-26
+Grande Prairie,10,2023-07-26
+Guelph,17,2023-07-26
+Halifax,14,2023-07-26
+Hamilton,33,2023-07-26
+Kelowna,11,2023-07-26
+Kingston,6,2023-07-26
+Kitchener,17,2023-07-26
+Lethbridge,11,2023-07-26
+London,34,2023-07-26
+Mississauga,50,2023-07-26
+Moncton,10,2023-07-26
+Nanaimo,6,2023-07-26
+Nepean,10,2023-07-26
+Niagara Falls,14,2023-07-26
+North York,58,2023-07-26
+Oshawa,19,2023-07-26
+Ottawa,30,2023-07-26
+Peterborough,8,2023-07-26
+Prince George,9,2023-07-26
+Red Deer,15,2023-07-26
+Regina,26,2023-07-26
+Saint John,6,2023-07-26
+Saskatoon,22,2023-07-26
+Sault Ste. Marie,7,2023-07-26
+Scarborough,49,2023-07-26
+St Catharines,17,2023-07-26
+Sudbury,10,2023-07-26
+Surrey,38,2023-07-26
+Thunder Bay,11,2023-07-26
+Toronto,54,2023-07-26
+Vancouver,42,2023-07-26
+Victoria,7,2023-07-26
+Windsor,23,2023-07-26
+Winnipeg,58,2023-07-26
+York,22,2023-07-26
+Abbotsford,17,2023-07-27
+Barrie,20,2023-07-27
+Brampton,50,2023-07-27
+Brantford,12,2023-07-27
+Burnaby,13,2023-07-27
+Calgary,112,2023-07-27
+Cambridge,21,2023-07-27
+Chilliwack,8,2023-07-27
+Edmonton,142,2023-07-27
+Etobicoke,31,2023-07-27
+Fort McMurray,9,2023-07-27
+Grande Prairie,8,2023-07-27
+Guelph,8,2023-07-27
+Halifax,8,2023-07-27
+Hamilton,35,2023-07-27
+Kelowna,12,2023-07-27
+Kingston,17,2023-07-27
+Kitchener,20,2023-07-27
+Lethbridge,9,2023-07-27
+London,51,2023-07-27
+Mississauga,55,2023-07-27
+Moncton,10,2023-07-27
+Nanaimo,10,2023-07-27
+Nepean,13,2023-07-27
+Niagara Falls,11,2023-07-27
+North York,53,2023-07-27
+Oshawa,17,2023-07-27
+Ottawa,26,2023-07-27
+Peterborough,10,2023-07-27
+Prince George,7,2023-07-27
+Red Deer,8,2023-07-27
+Regina,16,2023-07-27
+Saint John,8,2023-07-27
+Saskatoon,25,2023-07-27
+Sault Ste. Marie,7,2023-07-27
+Scarborough,56,2023-07-27
+St Catharines,11,2023-07-27
+Sudbury,11,2023-07-27
+Surrey,47,2023-07-27
+Thunder Bay,12,2023-07-27
+Toronto,59,2023-07-27
+Vancouver,43,2023-07-27
+Victoria,7,2023-07-27
+Windsor,27,2023-07-27
+Winnipeg,57,2023-07-27
+York,12,2023-07-27
+Abbotsford,9,2023-07-28
+Barrie,17,2023-07-28
+Brampton,45,2023-07-28
+Brantford,9,2023-07-28
+Burnaby,10,2023-07-28
+Calgary,79,2023-07-28
+Cambridge,8,2023-07-28
+Chilliwack,9,2023-07-28
+Edmonton,85,2023-07-28
+Etobicoke,23,2023-07-28
+Fort McMurray,5,2023-07-28
+Grande Prairie,11,2023-07-28
+Guelph,8,2023-07-28
+Halifax,15,2023-07-28
+Hamilton,32,2023-07-28
+Kelowna,5,2023-07-28
+Kingston,10,2023-07-28
+Kitchener,14,2023-07-28
+Lethbridge,1,2023-07-28
+London,32,2023-07-28
+Mississauga,36,2023-07-28
+Moncton,9,2023-07-28
+Nanaimo,6,2023-07-28
+Nepean,11,2023-07-28
+Niagara Falls,12,2023-07-28
+North York,34,2023-07-28
+Oshawa,21,2023-07-28
+Ottawa,17,2023-07-28
+Peterborough,12,2023-07-28
+Prince George,8,2023-07-28
+Red Deer,13,2023-07-28
+Regina,10,2023-07-28
+Saint John,7,2023-07-28
+Saskatoon,13,2023-07-28
+Sault Ste. Marie,7,2023-07-28
+Scarborough,41,2023-07-28
+St Catharines,9,2023-07-28
+Sudbury,1,2023-07-28
+Surrey,27,2023-07-28
+Thunder Bay,8,2023-07-28
+Toronto,42,2023-07-28
+Vancouver,28,2023-07-28
+Victoria,11,2023-07-28
+Windsor,21,2023-07-28
+Winnipeg,74,2023-07-28
+York,9,2023-07-28
+Abbotsford,4,2023-07-29
+Barrie,12,2023-07-29
+Brampton,51,2023-07-29
+Brantford,13,2023-07-29
+Burnaby,10,2023-07-29
+Calgary,79,2023-07-29
+Cambridge,11,2023-07-29
+Chilliwack,6,2023-07-29
+Edmonton,83,2023-07-29
+Etobicoke,29,2023-07-29
+Fort McMurray,5,2023-07-29
+Grande Prairie,7,2023-07-29
+Guelph,5,2023-07-29
+Halifax,13,2023-07-29
+Hamilton,22,2023-07-29
+Kelowna,7,2023-07-29
+Kingston,5,2023-07-29
+Kitchener,13,2023-07-29
+Lethbridge,9,2023-07-29
+London,26,2023-07-29
+Mississauga,37,2023-07-29
+Moncton,4,2023-07-29
+Nanaimo,8,2023-07-29
+Nepean,7,2023-07-29
+Niagara Falls,10,2023-07-29
+North York,46,2023-07-29
+Oshawa,14,2023-07-29
+Ottawa,23,2023-07-29
+Peterborough,6,2023-07-29
+Prince George,9,2023-07-29
+Red Deer,7,2023-07-29
+Regina,6,2023-07-29
+Saint John,8,2023-07-29
+Saskatoon,12,2023-07-29
+Sault Ste. Marie,6,2023-07-29
+Scarborough,32,2023-07-29
+St Catharines,11,2023-07-29
+Sudbury,7,2023-07-29
+Surrey,28,2023-07-29
+Thunder Bay,6,2023-07-29
+Toronto,29,2023-07-29
+Vancouver,20,2023-07-29
+Victoria,9,2023-07-29
+Windsor,16,2023-07-29
+Winnipeg,43,2023-07-29
+York,6,2023-07-29
+Abbotsford,8,2023-07-30
+Barrie,15,2023-07-30
+Brampton,42,2023-07-30
+Brantford,11,2023-07-30
+Burnaby,7,2023-07-30
+Calgary,69,2023-07-30
+Cambridge,12,2023-07-30
+Chilliwack,5,2023-07-30
+Edmonton,70,2023-07-30
+Etobicoke,17,2023-07-30
+Fort McMurray,6,2023-07-30
+Grande Prairie,3,2023-07-30
+Guelph,2,2023-07-30
+Halifax,7,2023-07-30
+Hamilton,30,2023-07-30
+Kelowna,12,2023-07-30
+Kingston,6,2023-07-30
+Kitchener,10,2023-07-30
+Lethbridge,12,2023-07-30
+London,23,2023-07-30
+Mississauga,33,2023-07-30
+Moncton,6,2023-07-30
+Nanaimo,6,2023-07-30
+Nepean,15,2023-07-30
+Niagara Falls,15,2023-07-30
+North York,32,2023-07-30
+Oshawa,20,2023-07-30
+Ottawa,21,2023-07-30
+Peterborough,2,2023-07-30
+Prince George,10,2023-07-30
+Red Deer,8,2023-07-30
+Regina,6,2023-07-30
+Saint John,5,2023-07-30
+Saskatoon,14,2023-07-30
+Sault Ste. Marie,10,2023-07-30
+Scarborough,38,2023-07-30
+St Catharines,11,2023-07-30
+Sudbury,3,2023-07-30
+Surrey,37,2023-07-30
+Thunder Bay,7,2023-07-30
+Toronto,46,2023-07-30
+Vancouver,24,2023-07-30
+Victoria,8,2023-07-30
+Windsor,17,2023-07-30
+Winnipeg,32,2023-07-30
+York,11,2023-07-30
+Abbotsford,17,2023-07-31
+Barrie,20,2023-07-31
+Brampton,106,2023-07-31
+Brantford,18,2023-07-31
+Burnaby,23,2023-07-31
+Calgary,132,2023-07-31
+Cambridge,17,2023-07-31
+Chilliwack,17,2023-07-31
+Edmonton,131,2023-07-31
+Etobicoke,40,2023-07-31
+Fort McMurray,20,2023-07-31
+Grande Prairie,12,2023-07-31
+Guelph,14,2023-07-31
+Halifax,22,2023-07-31
+Hamilton,51,2023-07-31
+Kelowna,20,2023-07-31
+Kingston,8,2023-07-31
+Kitchener,33,2023-07-31
+Lethbridge,13,2023-07-31
+London,47,2023-07-31
+Mississauga,74,2023-07-31
+Moncton,9,2023-07-31
+Nanaimo,17,2023-07-31
+Nepean,17,2023-07-31
+Niagara Falls,13,2023-07-31
+North York,75,2023-07-31
+Oshawa,35,2023-07-31
+Ottawa,52,2023-07-31
+Peterborough,15,2023-07-31
+Prince George,11,2023-07-31
+Red Deer,17,2023-07-31
+Regina,29,2023-07-31
+Saint John,7,2023-07-31
+Saskatoon,32,2023-07-31
+Sault Ste. Marie,11,2023-07-31
+Scarborough,65,2023-07-31
+St Catharines,22,2023-07-31
+Sudbury,11,2023-07-31
+Surrey,60,2023-07-31
+Thunder Bay,12,2023-07-31
+Toronto,88,2023-07-31
+Vancouver,64,2023-07-31
+Victoria,15,2023-07-31
+Windsor,35,2023-07-31
+Winnipeg,91,2023-07-31
+York,13,2023-07-31
+Abbotsford,14,2023-08-01
+Barrie,23,2023-08-01
+Brampton,69,2023-08-01
+Brantford,14,2023-08-01
+Burnaby,13,2023-08-01
+Calgary,107,2023-08-01
+Cambridge,12,2023-08-01
+Chilliwack,8,2023-08-01
+Edmonton,120,2023-08-01
+Etobicoke,25,2023-08-01
+Fort McMurray,15,2023-08-01
+Grande Prairie,10,2023-08-01
+Guelph,11,2023-08-01
+Halifax,11,2023-08-01
+Hamilton,32,2023-08-01
+Kelowna,12,2023-08-01
+Kingston,14,2023-08-01
+Kitchener,22,2023-08-01
+Lethbridge,10,2023-08-01
+London,42,2023-08-01
+Mississauga,48,2023-08-01
+Moncton,12,2023-08-01
+Nanaimo,6,2023-08-01
+Nepean,15,2023-08-01
+Niagara Falls,14,2023-08-01
+North York,71,2023-08-01
+Oshawa,29,2023-08-01
+Ottawa,35,2023-08-01
+Peterborough,13,2023-08-01
+Prince George,11,2023-08-01
+Red Deer,13,2023-08-01
+Regina,10,2023-08-01
+Saint John,4,2023-08-01
+Saskatoon,22,2023-08-01
+Sault Ste. Marie,5,2023-08-01
+Scarborough,48,2023-08-01
+St Catharines,18,2023-08-01
+Sudbury,8,2023-08-01
+Surrey,49,2023-08-01
+Thunder Bay,14,2023-08-01
+Toronto,55,2023-08-01
+Vancouver,30,2023-08-01
+Victoria,20,2023-08-01
+Windsor,28,2023-08-01
+Winnipeg,66,2023-08-01
+York,18,2023-08-01
+Abbotsford,7,2023-08-02
+Barrie,12,2023-08-02
+Brampton,70,2023-08-02
+Brantford,13,2023-08-02
+Burnaby,11,2023-08-02
+Calgary,101,2023-08-02
+Cambridge,12,2023-08-02
+Chilliwack,19,2023-08-02
+Edmonton,110,2023-08-02
+Etobicoke,35,2023-08-02
+Fort McMurray,11,2023-08-02
+Grande Prairie,11,2023-08-02
+Guelph,7,2023-08-02
+Halifax,10,2023-08-02
+Hamilton,39,2023-08-02
+Kelowna,14,2023-08-02
+Kingston,5,2023-08-02
+Kitchener,22,2023-08-02
+Lethbridge,8,2023-08-02
+London,43,2023-08-02
+Mississauga,54,2023-08-02
+Moncton,4,2023-08-02
+Nanaimo,12,2023-08-02
+Nepean,17,2023-08-02
+Niagara Falls,6,2023-08-02
+North York,69,2023-08-02
+Oshawa,15,2023-08-02
+Ottawa,19,2023-08-02
+Peterborough,11,2023-08-02
+Prince George,14,2023-08-02
+Red Deer,10,2023-08-02
+Regina,14,2023-08-02
+Saint John,7,2023-08-02
+Saskatoon,20,2023-08-02
+Sault Ste. Marie,8,2023-08-02
+Scarborough,61,2023-08-02
+St Catharines,7,2023-08-02
+Sudbury,6,2023-08-02
+Surrey,39,2023-08-02
+Thunder Bay,4,2023-08-02
+Toronto,54,2023-08-02
+Vancouver,46,2023-08-02
+Victoria,10,2023-08-02
+Windsor,26,2023-08-02
+Winnipeg,71,2023-08-02
+York,11,2023-08-02
+Abbotsford,8,2023-08-03
+Barrie,17,2023-08-03
+Brampton,63,2023-08-03
+Brantford,21,2023-08-03
+Burnaby,11,2023-08-03
+Calgary,140,2023-08-03
+Cambridge,16,2023-08-03
+Chilliwack,6,2023-08-03
+Edmonton,124,2023-08-03
+Etobicoke,29,2023-08-03
+Fort McMurray,8,2023-08-03
+Grande Prairie,10,2023-08-03
+Guelph,8,2023-08-03
+Halifax,13,2023-08-03
+Hamilton,53,2023-08-03
+Kelowna,14,2023-08-03
+Kingston,9,2023-08-03
+Kitchener,34,2023-08-03
+Lethbridge,10,2023-08-03
+London,33,2023-08-03
+Mississauga,56,2023-08-03
+Moncton,9,2023-08-03
+Nanaimo,9,2023-08-03
+Nepean,9,2023-08-03
+Niagara Falls,10,2023-08-03
+North York,72,2023-08-03
+Oshawa,27,2023-08-03
+Ottawa,28,2023-08-03
+Peterborough,13,2023-08-03
+Prince George,11,2023-08-03
+Red Deer,21,2023-08-03
+Regina,18,2023-08-03
+Saint John,9,2023-08-03
+Saskatoon,20,2023-08-03
+Sault Ste. Marie,7,2023-08-03
+Scarborough,62,2023-08-03
+St Catharines,13,2023-08-03
+Sudbury,15,2023-08-03
+Surrey,54,2023-08-03
+Thunder Bay,6,2023-08-03
+Toronto,56,2023-08-03
+Vancouver,44,2023-08-03
+Victoria,17,2023-08-03
+Windsor,26,2023-08-03
+Winnipeg,62,2023-08-03
+York,14,2023-08-03
+Abbotsford,10,2023-08-04
+Barrie,14,2023-08-04
+Brampton,51,2023-08-04
+Brantford,11,2023-08-04
+Burnaby,9,2023-08-04
+Calgary,81,2023-08-04
+Cambridge,9,2023-08-04
+Chilliwack,12,2023-08-04
+Edmonton,117,2023-08-04
+Etobicoke,30,2023-08-04
+Fort McMurray,7,2023-08-04
+Grande Prairie,8,2023-08-04
+Guelph,9,2023-08-04
+Halifax,4,2023-08-04
+Hamilton,30,2023-08-04
+Kelowna,11,2023-08-04
+Kingston,9,2023-08-04
+Kitchener,14,2023-08-04
+Lethbridge,7,2023-08-04
+London,30,2023-08-04
+Mississauga,49,2023-08-04
+Moncton,10,2023-08-04
+Nanaimo,6,2023-08-04
+Nepean,8,2023-08-04
+Niagara Falls,14,2023-08-04
+North York,66,2023-08-04
+Oshawa,22,2023-08-04
+Ottawa,32,2023-08-04
+Peterborough,7,2023-08-04
+Prince George,11,2023-08-04
+Red Deer,7,2023-08-04
+Regina,12,2023-08-04
+Saint John,9,2023-08-04
+Saskatoon,21,2023-08-04
+Sault Ste. Marie,4,2023-08-04
+Scarborough,47,2023-08-04
+St Catharines,13,2023-08-04
+Sudbury,15,2023-08-04
+Surrey,36,2023-08-04
+Thunder Bay,8,2023-08-04
+Toronto,40,2023-08-04
+Vancouver,33,2023-08-04
+Victoria,20,2023-08-04
+Windsor,31,2023-08-04
+Winnipeg,67,2023-08-04
+York,14,2023-08-04
+Abbotsford,6,2023-08-05
+Barrie,17,2023-08-05
+Brampton,46,2023-08-05
+Brantford,10,2023-08-05
+Burnaby,13,2023-08-05
+Calgary,105,2023-08-05
+Cambridge,8,2023-08-05
+Chilliwack,13,2023-08-05
+Edmonton,109,2023-08-05
+Etobicoke,21,2023-08-05
+Fort McMurray,12,2023-08-05
+Grande Prairie,13,2023-08-05
+Guelph,13,2023-08-05
+Halifax,10,2023-08-05
+Hamilton,35,2023-08-05
+Kelowna,13,2023-08-05
+Kingston,10,2023-08-05
+Kitchener,17,2023-08-05
+Lethbridge,7,2023-08-05
+London,39,2023-08-05
+Mississauga,42,2023-08-05
+Moncton,10,2023-08-05
+Nanaimo,12,2023-08-05
+Nepean,15,2023-08-05
+Niagara Falls,6,2023-08-05
+North York,43,2023-08-05
+Oshawa,23,2023-08-05
+Ottawa,38,2023-08-05
+Peterborough,14,2023-08-05
+Prince George,4,2023-08-05
+Red Deer,17,2023-08-05
+Regina,27,2023-08-05
+Saint John,10,2023-08-05
+Saskatoon,23,2023-08-05
+Sault Ste. Marie,9,2023-08-05
+Scarborough,45,2023-08-05
+St Catharines,11,2023-08-05
+Sudbury,12,2023-08-05
+Surrey,40,2023-08-05
+Thunder Bay,7,2023-08-05
+Toronto,43,2023-08-05
+Vancouver,22,2023-08-05
+Victoria,4,2023-08-05
+Windsor,35,2023-08-05
+Winnipeg,72,2023-08-05
+York,13,2023-08-05
+Abbotsford,8,2023-08-06
+Barrie,8,2023-08-06
+Brampton,40,2023-08-06
+Brantford,9,2023-08-06
+Burnaby,4,2023-08-06
+Calgary,89,2023-08-06
+Cambridge,10,2023-08-06
+Chilliwack,14,2023-08-06
+Edmonton,114,2023-08-06
+Etobicoke,27,2023-08-06
+Fort McMurray,14,2023-08-06
+Grande Prairie,9,2023-08-06
+Guelph,7,2023-08-06
+Halifax,14,2023-08-06
+Hamilton,43,2023-08-06
+Kelowna,13,2023-08-06
+Kingston,12,2023-08-06
+Kitchener,15,2023-08-06
+Lethbridge,12,2023-08-06
+London,26,2023-08-06
+Mississauga,33,2023-08-06
+Moncton,7,2023-08-06
+Nanaimo,15,2023-08-06
+Nepean,10,2023-08-06
+Niagara Falls,14,2023-08-06
+North York,41,2023-08-06
+Oshawa,23,2023-08-06
+Ottawa,20,2023-08-06
+Peterborough,10,2023-08-06
+Prince George,9,2023-08-06
+Red Deer,16,2023-08-06
+Regina,21,2023-08-06
+Saint John,8,2023-08-06
+Saskatoon,20,2023-08-06
+Sault Ste. Marie,11,2023-08-06
+Scarborough,29,2023-08-06
+St Catharines,21,2023-08-06
+Sudbury,5,2023-08-06
+Surrey,31,2023-08-06
+Thunder Bay,5,2023-08-06
+Toronto,44,2023-08-06
+Vancouver,21,2023-08-06
+Victoria,7,2023-08-06
+Windsor,29,2023-08-06
+Winnipeg,59,2023-08-06
+York,11,2023-08-06
+Abbotsford,12,2023-08-07
+Barrie,25,2023-08-07
+Brampton,57,2023-08-07
+Brantford,10,2023-08-07
+Burnaby,11,2023-08-07
+Calgary,114,2023-08-07
+Cambridge,20,2023-08-07
+Chilliwack,11,2023-08-07
+Edmonton,130,2023-08-07
+Etobicoke,29,2023-08-07
+Fort McMurray,10,2023-08-07
+Grande Prairie,10,2023-08-07
+Guelph,16,2023-08-07
+Halifax,14,2023-08-07
+Hamilton,46,2023-08-07
+Kelowna,8,2023-08-07
+Kingston,8,2023-08-07
+Kitchener,21,2023-08-07
+Lethbridge,7,2023-08-07
+London,40,2023-08-07
+Mississauga,47,2023-08-07
+Moncton,14,2023-08-07
+Nanaimo,8,2023-08-07
+Nepean,10,2023-08-07
+Niagara Falls,10,2023-08-07
+North York,47,2023-08-07
+Oshawa,34,2023-08-07
+Ottawa,32,2023-08-07
+Peterborough,9,2023-08-07
+Prince George,9,2023-08-07
+Red Deer,10,2023-08-07
+Regina,18,2023-08-07
+Saint John,11,2023-08-07
+Saskatoon,23,2023-08-07
+Sault Ste. Marie,7,2023-08-07
+Scarborough,56,2023-08-07
+St Catharines,20,2023-08-07
+Sudbury,16,2023-08-07
+Surrey,47,2023-08-07
+Thunder Bay,10,2023-08-07
+Toronto,45,2023-08-07
+Vancouver,29,2023-08-07
+Victoria,11,2023-08-07
+Windsor,35,2023-08-07
+Winnipeg,63,2023-08-07
+York,13,2023-08-07
+Abbotsford,16,2023-08-08
+Barrie,28,2023-08-08
+Brampton,76,2023-08-08
+Brantford,27,2023-08-08
+Burnaby,14,2023-08-08
+Calgary,149,2023-08-08
+Cambridge,13,2023-08-08
+Chilliwack,18,2023-08-08
+Edmonton,154,2023-08-08
+Etobicoke,43,2023-08-08
+Fort McMurray,9,2023-08-08
+Grande Prairie,15,2023-08-08
+Guelph,17,2023-08-08
+Halifax,22,2023-08-08
+Hamilton,55,2023-08-08
+Kelowna,17,2023-08-08
+Kingston,20,2023-08-08
+Kitchener,28,2023-08-08
+Lethbridge,12,2023-08-08
+London,56,2023-08-08
+Mississauga,67,2023-08-08
+Moncton,13,2023-08-08
+Nanaimo,10,2023-08-08
+Nepean,12,2023-08-08
+Niagara Falls,25,2023-08-08
+North York,69,2023-08-08
+Oshawa,36,2023-08-08
+Ottawa,38,2023-08-08
+Peterborough,18,2023-08-08
+Prince George,14,2023-08-08
+Red Deer,19,2023-08-08
+Regina,24,2023-08-08
+Saint John,14,2023-08-08
+Saskatoon,37,2023-08-08
+Sault Ste. Marie,11,2023-08-08
+Scarborough,72,2023-08-08
+St Catharines,22,2023-08-08
+Sudbury,16,2023-08-08
+Surrey,46,2023-08-08
+Thunder Bay,15,2023-08-08
+Toronto,74,2023-08-08
+Vancouver,45,2023-08-08
+Victoria,25,2023-08-08
+Windsor,26,2023-08-08
+Winnipeg,80,2023-08-08
+York,18,2023-08-08
+Abbotsford,13,2023-08-09
+Barrie,14,2023-08-09
+Brampton,77,2023-08-09
+Brantford,18,2023-08-09
+Burnaby,13,2023-08-09
+Calgary,146,2023-08-09
+Cambridge,19,2023-08-09
+Chilliwack,15,2023-08-09
+Edmonton,158,2023-08-09
+Etobicoke,40,2023-08-09
+Fort McMurray,10,2023-08-09
+Grande Prairie,14,2023-08-09
+Guelph,14,2023-08-09
+Halifax,21,2023-08-09
+Hamilton,63,2023-08-09
+Kelowna,15,2023-08-09
+Kingston,17,2023-08-09
+Kitchener,28,2023-08-09
+Lethbridge,11,2023-08-09
+London,48,2023-08-09
+Mississauga,50,2023-08-09
+Moncton,17,2023-08-09
+Nanaimo,21,2023-08-09
+Nepean,11,2023-08-09
+Niagara Falls,24,2023-08-09
+North York,74,2023-08-09
+Oshawa,39,2023-08-09
+Ottawa,36,2023-08-09
+Peterborough,9,2023-08-09
+Prince George,16,2023-08-09
+Red Deer,24,2023-08-09
+Regina,22,2023-08-09
+Saint John,12,2023-08-09
+Saskatoon,28,2023-08-09
+Sault Ste. Marie,17,2023-08-09
+Scarborough,77,2023-08-09
+St Catharines,18,2023-08-09
+Sudbury,9,2023-08-09
+Surrey,59,2023-08-09
+Thunder Bay,14,2023-08-09
+Toronto,64,2023-08-09
+Vancouver,46,2023-08-09
+Victoria,18,2023-08-09
+Windsor,40,2023-08-09
+Winnipeg,99,2023-08-09
+York,20,2023-08-09
+Abbotsford,15,2023-08-10
+Barrie,23,2023-08-10
+Brampton,49,2023-08-10
+Brantford,11,2023-08-10
+Burnaby,11,2023-08-10
+Calgary,122,2023-08-10
+Cambridge,9,2023-08-10
+Chilliwack,16,2023-08-10
+Edmonton,117,2023-08-10
+Etobicoke,34,2023-08-10
+Fort McMurray,12,2023-08-10
+Grande Prairie,12,2023-08-10
+Guelph,10,2023-08-10
+Halifax,16,2023-08-10
+Hamilton,47,2023-08-10
+Kelowna,14,2023-08-10
+Kingston,10,2023-08-10
+Kitchener,23,2023-08-10
+Lethbridge,12,2023-08-10
+London,47,2023-08-10
+Mississauga,47,2023-08-10
+Moncton,4,2023-08-10
+Nanaimo,10,2023-08-10
+Nepean,9,2023-08-10
+Niagara Falls,12,2023-08-10
+North York,54,2023-08-10
+Oshawa,23,2023-08-10
+Ottawa,19,2023-08-10
+Peterborough,6,2023-08-10
+Prince George,7,2023-08-10
+Red Deer,24,2023-08-10
+Regina,21,2023-08-10
+Saint John,7,2023-08-10
+Saskatoon,22,2023-08-10
+Sault Ste. Marie,19,2023-08-10
+Scarborough,69,2023-08-10
+St Catharines,19,2023-08-10
+Sudbury,11,2023-08-10
+Surrey,43,2023-08-10
+Thunder Bay,12,2023-08-10
+Toronto,63,2023-08-10
+Vancouver,41,2023-08-10
+Victoria,14,2023-08-10
+Windsor,28,2023-08-10
+Winnipeg,58,2023-08-10
+York,18,2023-08-10
+Abbotsford,12,2023-08-11
+Barrie,10,2023-08-11
+Brampton,51,2023-08-11
+Brantford,21,2023-08-11
+Burnaby,12,2023-08-11
+Calgary,68,2023-08-11
+Cambridge,3,2023-08-11
+Chilliwack,6,2023-08-11
+Edmonton,116,2023-08-11
+Etobicoke,23,2023-08-11
+Fort McMurray,4,2023-08-11
+Grande Prairie,12,2023-08-11
+Guelph,10,2023-08-11
+Halifax,9,2023-08-11
+Hamilton,37,2023-08-11
+Kelowna,10,2023-08-11
+Kingston,8,2023-08-11
+Kitchener,14,2023-08-11
+Lethbridge,10,2023-08-11
+London,43,2023-08-11
+Mississauga,38,2023-08-11
+Moncton,10,2023-08-11
+Nanaimo,4,2023-08-11
+Nepean,8,2023-08-11
+Niagara Falls,9,2023-08-11
+North York,44,2023-08-11
+Oshawa,24,2023-08-11
+Ottawa,24,2023-08-11
+Peterborough,12,2023-08-11
+Prince George,10,2023-08-11
+Red Deer,15,2023-08-11
+Regina,20,2023-08-11
+Saint John,11,2023-08-11
+Saskatoon,21,2023-08-11
+Sault Ste. Marie,8,2023-08-11
+Scarborough,50,2023-08-11
+St Catharines,8,2023-08-11
+Sudbury,7,2023-08-11
+Surrey,49,2023-08-11
+Thunder Bay,4,2023-08-11
+Toronto,38,2023-08-11
+Vancouver,22,2023-08-11
+Victoria,10,2023-08-11
+Windsor,25,2023-08-11
+Winnipeg,79,2023-08-11
+York,16,2023-08-11
+Abbotsford,11,2023-08-12
+Barrie,24,2023-08-12
+Brampton,34,2023-08-12
+Brantford,11,2023-08-12
+Burnaby,10,2023-08-12
+Calgary,87,2023-08-12
+Cambridge,7,2023-08-12
+Chilliwack,4,2023-08-12
+Edmonton,88,2023-08-12
+Etobicoke,26,2023-08-12
+Fort McMurray,7,2023-08-12
+Grande Prairie,5,2023-08-12
+Guelph,15,2023-08-12
+Halifax,7,2023-08-12
+Hamilton,37,2023-08-12
+Kelowna,4,2023-08-12
+Kingston,8,2023-08-12
+Kitchener,17,2023-08-12
+Lethbridge,7,2023-08-12
+London,26,2023-08-12
+Mississauga,26,2023-08-12
+Moncton,8,2023-08-12
+Nanaimo,4,2023-08-12
+Nepean,8,2023-08-12
+Niagara Falls,9,2023-08-12
+North York,42,2023-08-12
+Oshawa,18,2023-08-12
+Ottawa,19,2023-08-12
+Peterborough,4,2023-08-12
+Prince George,5,2023-08-12
+Red Deer,10,2023-08-12
+Regina,21,2023-08-12
+Saint John,6,2023-08-12
+Saskatoon,11,2023-08-12
+Sault Ste. Marie,6,2023-08-12
+Scarborough,46,2023-08-12
+St Catharines,12,2023-08-12
+Sudbury,2,2023-08-12
+Surrey,32,2023-08-12
+Thunder Bay,4,2023-08-12
+Toronto,35,2023-08-12
+Vancouver,27,2023-08-12
+Victoria,11,2023-08-12
+Windsor,24,2023-08-12
+Winnipeg,47,2023-08-12
+York,10,2023-08-12
+Abbotsford,11,2023-08-13
+Barrie,8,2023-08-13
+Brampton,44,2023-08-13
+Brantford,3,2023-08-13
+Burnaby,9,2023-08-13
+Calgary,63,2023-08-13
+Cambridge,11,2023-08-13
+Chilliwack,5,2023-08-13
+Edmonton,75,2023-08-13
+Etobicoke,24,2023-08-13
+Fort McMurray,6,2023-08-13
+Grande Prairie,12,2023-08-13
+Guelph,9,2023-08-13
+Halifax,7,2023-08-13
+Hamilton,28,2023-08-13
+Kelowna,5,2023-08-13
+Kingston,6,2023-08-13
+Kitchener,9,2023-08-13
+Lethbridge,7,2023-08-13
+London,34,2023-08-13
+Mississauga,19,2023-08-13
+Moncton,10,2023-08-13
+Nanaimo,5,2023-08-13
+Nepean,8,2023-08-13
+Niagara Falls,7,2023-08-13
+North York,41,2023-08-13
+Oshawa,9,2023-08-13
+Ottawa,23,2023-08-13
+Peterborough,4,2023-08-13
+Prince George,3,2023-08-13
+Red Deer,9,2023-08-13
+Regina,12,2023-08-13
+Saint John,5,2023-08-13
+Saskatoon,10,2023-08-13
+Sault Ste. Marie,6,2023-08-13
+Scarborough,32,2023-08-13
+St Catharines,5,2023-08-13
+Sudbury,7,2023-08-13
+Surrey,26,2023-08-13
+Thunder Bay,6,2023-08-13
+Toronto,37,2023-08-13
+Vancouver,17,2023-08-13
+Victoria,9,2023-08-13
+Windsor,17,2023-08-13
+Winnipeg,53,2023-08-13
+York,5,2023-08-13
+Abbotsford,13,2023-08-14
+Barrie,21,2023-08-14
+Brampton,76,2023-08-14
+Brantford,10,2023-08-14
+Burnaby,10,2023-08-14
+Calgary,112,2023-08-14
+Cambridge,25,2023-08-14
+Chilliwack,12,2023-08-14
+Edmonton,126,2023-08-14
+Etobicoke,32,2023-08-14
+Fort McMurray,9,2023-08-14
+Grande Prairie,14,2023-08-14
+Guelph,10,2023-08-14
+Halifax,18,2023-08-14
+Hamilton,44,2023-08-14
+Kelowna,16,2023-08-14
+Kingston,12,2023-08-14
+Kitchener,27,2023-08-14
+Lethbridge,9,2023-08-14
+London,40,2023-08-14
+Mississauga,41,2023-08-14
+Moncton,6,2023-08-14
+Nanaimo,6,2023-08-14
+Nepean,7,2023-08-14
+Niagara Falls,9,2023-08-14
+North York,52,2023-08-14
+Oshawa,18,2023-08-14
+Ottawa,32,2023-08-14
+Peterborough,9,2023-08-14
+Prince George,3,2023-08-14
+Red Deer,10,2023-08-14
+Regina,13,2023-08-14
+Saint John,3,2023-08-14
+Saskatoon,26,2023-08-14
+Sault Ste. Marie,4,2023-08-14
+Scarborough,48,2023-08-14
+St Catharines,14,2023-08-14
+Sudbury,12,2023-08-14
+Surrey,40,2023-08-14
+Thunder Bay,14,2023-08-14
+Toronto,39,2023-08-14
+Vancouver,32,2023-08-14
+Victoria,13,2023-08-14
+Windsor,25,2023-08-14
+Winnipeg,71,2023-08-14
+York,17,2023-08-14
+Abbotsford,18,2023-08-15
+Barrie,20,2023-08-15
+Brampton,97,2023-08-15
+Brantford,21,2023-08-15
+Burnaby,18,2023-08-15
+Calgary,142,2023-08-15
+Cambridge,24,2023-08-15
+Chilliwack,13,2023-08-15
+Edmonton,175,2023-08-15
+Etobicoke,39,2023-08-15
+Fort McMurray,23,2023-08-15
+Grande Prairie,12,2023-08-15
+Guelph,9,2023-08-15
+Halifax,21,2023-08-15
+Hamilton,59,2023-08-15
+Kelowna,14,2023-08-15
+Kingston,15,2023-08-15
+Kitchener,40,2023-08-15
+Lethbridge,18,2023-08-15
+London,46,2023-08-15
+Mississauga,55,2023-08-15
+Moncton,7,2023-08-15
+Nanaimo,19,2023-08-15
+Nepean,12,2023-08-15
+Niagara Falls,16,2023-08-15
+North York,97,2023-08-15
+Oshawa,25,2023-08-15
+Ottawa,35,2023-08-15
+Peterborough,14,2023-08-15
+Prince George,19,2023-08-15
+Red Deer,16,2023-08-15
+Regina,26,2023-08-15
+Saint John,14,2023-08-15
+Saskatoon,21,2023-08-15
+Sault Ste. Marie,10,2023-08-15
+Scarborough,78,2023-08-15
+St Catharines,18,2023-08-15
+Sudbury,17,2023-08-15
+Surrey,64,2023-08-15
+Thunder Bay,9,2023-08-15
+Toronto,55,2023-08-15
+Vancouver,47,2023-08-15
+Victoria,9,2023-08-15
+Windsor,31,2023-08-15
+Winnipeg,88,2023-08-15
+York,14,2023-08-15
+Abbotsford,16,2023-08-16
+Barrie,18,2023-08-16
+Brampton,63,2023-08-16
+Brantford,13,2023-08-16
+Burnaby,10,2023-08-16
+Calgary,122,2023-08-16
+Cambridge,9,2023-08-16
+Chilliwack,10,2023-08-16
+Edmonton,128,2023-08-16
+Etobicoke,32,2023-08-16
+Fort McMurray,13,2023-08-16
+Grande Prairie,6,2023-08-16
+Guelph,12,2023-08-16
+Halifax,14,2023-08-16
+Hamilton,59,2023-08-16
+Kelowna,10,2023-08-16
+Kingston,8,2023-08-16
+Kitchener,19,2023-08-16
+Lethbridge,4,2023-08-16
+London,35,2023-08-16
+Mississauga,43,2023-08-16
+Moncton,10,2023-08-16
+Nanaimo,12,2023-08-16
+Nepean,7,2023-08-16
+Niagara Falls,10,2023-08-16
+North York,55,2023-08-16
+Oshawa,15,2023-08-16
+Ottawa,19,2023-08-16
+Peterborough,11,2023-08-16
+Prince George,14,2023-08-16
+Red Deer,4,2023-08-16
+Regina,14,2023-08-16
+Saint John,8,2023-08-16
+Saskatoon,20,2023-08-16
+Sault Ste. Marie,8,2023-08-16
+Scarborough,59,2023-08-16
+St Catharines,17,2023-08-16
+Sudbury,7,2023-08-16
+Surrey,56,2023-08-16
+Thunder Bay,7,2023-08-16
+Toronto,64,2023-08-16
+Vancouver,40,2023-08-16
+Victoria,15,2023-08-16
+Windsor,31,2023-08-16
+Winnipeg,80,2023-08-16
+York,22,2023-08-16
+Abbotsford,14,2023-08-17
+Barrie,12,2023-08-17
+Brampton,52,2023-08-17
+Brantford,19,2023-08-17
+Burnaby,7,2023-08-17
+Calgary,94,2023-08-17
+Cambridge,17,2023-08-17
+Chilliwack,4,2023-08-17
+Edmonton,80,2023-08-17
+Etobicoke,24,2023-08-17
+Fort McMurray,14,2023-08-17
+Grande Prairie,6,2023-08-17
+Guelph,10,2023-08-17
+Halifax,15,2023-08-17
+Hamilton,25,2023-08-17
+Kelowna,8,2023-08-17
+Kingston,16,2023-08-17
+Kitchener,16,2023-08-17
+Lethbridge,2,2023-08-17
+London,22,2023-08-17
+Mississauga,48,2023-08-17
+Moncton,8,2023-08-17
+Nanaimo,7,2023-08-17
+Nepean,10,2023-08-17
+Niagara Falls,11,2023-08-17
+North York,39,2023-08-17
+Oshawa,20,2023-08-17
+Ottawa,19,2023-08-17
+Peterborough,6,2023-08-17
+Prince George,6,2023-08-17
+Red Deer,8,2023-08-17
+Regina,17,2023-08-17
+Saint John,12,2023-08-17
+Saskatoon,22,2023-08-17
+Sault Ste. Marie,8,2023-08-17
+Scarborough,60,2023-08-17
+St Catharines,11,2023-08-17
+Sudbury,10,2023-08-17
+Surrey,27,2023-08-17
+Thunder Bay,10,2023-08-17
+Toronto,42,2023-08-17
+Vancouver,32,2023-08-17
+Victoria,12,2023-08-17
+Windsor,18,2023-08-17
+Winnipeg,68,2023-08-17
+York,5,2023-08-17
+Abbotsford,11,2023-08-18
+Barrie,13,2023-08-18
+Brampton,42,2023-08-18
+Brantford,5,2023-08-18
+Burnaby,7,2023-08-18
+Calgary,68,2023-08-18
+Cambridge,11,2023-08-18
+Chilliwack,4,2023-08-18
+Edmonton,84,2023-08-18
+Etobicoke,24,2023-08-18
+Fort McMurray,9,2023-08-18
+Grande Prairie,1,2023-08-18
+Guelph,7,2023-08-18
+Halifax,9,2023-08-18
+Hamilton,29,2023-08-18
+Kelowna,5,2023-08-18
+Kingston,11,2023-08-18
+Kitchener,10,2023-08-18
+Lethbridge,4,2023-08-18
+London,37,2023-08-18
+Mississauga,33,2023-08-18
+Moncton,5,2023-08-18
+Nanaimo,5,2023-08-18
+Nepean,7,2023-08-18
+Niagara Falls,6,2023-08-18
+North York,40,2023-08-18
+Oshawa,16,2023-08-18
+Ottawa,31,2023-08-18
+Peterborough,6,2023-08-18
+Prince George,10,2023-08-18
+Red Deer,10,2023-08-18
+Regina,10,2023-08-18
+Saint John,8,2023-08-18
+Saskatoon,23,2023-08-18
+Sault Ste. Marie,7,2023-08-18
+Scarborough,42,2023-08-18
+St Catharines,12,2023-08-18
+Sudbury,9,2023-08-18
+Surrey,37,2023-08-18
+Thunder Bay,8,2023-08-18
+Toronto,38,2023-08-18
+Vancouver,17,2023-08-18
+Victoria,11,2023-08-18
+Windsor,12,2023-08-18
+Winnipeg,48,2023-08-18
+York,11,2023-08-18
+Abbotsford,8,2023-08-19
+Barrie,20,2023-08-19
+Brampton,43,2023-08-19
+Brantford,8,2023-08-19
+Burnaby,7,2023-08-19
+Calgary,66,2023-08-19
+Cambridge,7,2023-08-19
+Chilliwack,8,2023-08-19
+Edmonton,82,2023-08-19
+Etobicoke,23,2023-08-19
+Fort McMurray,5,2023-08-19
+Grande Prairie,7,2023-08-19
+Guelph,6,2023-08-19
+Halifax,7,2023-08-19
+Hamilton,35,2023-08-19
+Kelowna,9,2023-08-19
+Kingston,8,2023-08-19
+Kitchener,15,2023-08-19
+Lethbridge,3,2023-08-19
+London,26,2023-08-19
+Mississauga,29,2023-08-19
+Moncton,6,2023-08-19
+Nanaimo,5,2023-08-19
+Nepean,8,2023-08-19
+Niagara Falls,7,2023-08-19
+North York,33,2023-08-19
+Oshawa,21,2023-08-19
+Ottawa,28,2023-08-19
+Peterborough,3,2023-08-19
+Prince George,4,2023-08-19
+Red Deer,7,2023-08-19
+Regina,15,2023-08-19
+Saint John,4,2023-08-19
+Saskatoon,23,2023-08-19
+Sault Ste. Marie,6,2023-08-19
+Scarborough,43,2023-08-19
+St Catharines,10,2023-08-19
+Sudbury,8,2023-08-19
+Surrey,22,2023-08-19
+Thunder Bay,3,2023-08-19
+Toronto,35,2023-08-19
+Vancouver,23,2023-08-19
+Victoria,8,2023-08-19
+Windsor,15,2023-08-19
+Winnipeg,50,2023-08-19
+York,5,2023-08-19
+Abbotsford,10,2023-08-20
+Barrie,12,2023-08-20
+Brampton,31,2023-08-20
+Brantford,10,2023-08-20
+Burnaby,11,2023-08-20
+Calgary,68,2023-08-20
+Cambridge,7,2023-08-20
+Chilliwack,5,2023-08-20
+Edmonton,83,2023-08-20
+Etobicoke,20,2023-08-20
+Fort McMurray,11,2023-08-20
+Grande Prairie,6,2023-08-20
+Guelph,2,2023-08-20
+Halifax,11,2023-08-20
+Hamilton,35,2023-08-20
+Kelowna,3,2023-08-20
+Kingston,7,2023-08-20
+Kitchener,12,2023-08-20
+Lethbridge,10,2023-08-20
+London,25,2023-08-20
+Mississauga,24,2023-08-20
+Moncton,3,2023-08-20
+Nanaimo,9,2023-08-20
+Nepean,7,2023-08-20
+Niagara Falls,13,2023-08-20
+North York,30,2023-08-20
+Oshawa,10,2023-08-20
+Ottawa,18,2023-08-20
+Peterborough,6,2023-08-20
+Prince George,6,2023-08-20
+Red Deer,5,2023-08-20
+Regina,13,2023-08-20
+Saint John,5,2023-08-20
+Saskatoon,16,2023-08-20
+Sault Ste. Marie,10,2023-08-20
+Scarborough,35,2023-08-20
+St Catharines,11,2023-08-20
+Sudbury,6,2023-08-20
+Surrey,20,2023-08-20
+Thunder Bay,9,2023-08-20
+Toronto,44,2023-08-20
+Vancouver,23,2023-08-20
+Victoria,6,2023-08-20
+Windsor,22,2023-08-20
+Winnipeg,38,2023-08-20
+York,15,2023-08-20
+Abbotsford,12,2023-08-21
+Barrie,35,2023-08-21
+Brampton,109,2023-08-21
+Brantford,28,2023-08-21
+Burnaby,9,2023-08-21
+Calgary,146,2023-08-21
+Cambridge,18,2023-08-21
+Chilliwack,11,2023-08-21
+Edmonton,214,2023-08-21
+Etobicoke,62,2023-08-21
+Fort McMurray,16,2023-08-21
+Grande Prairie,15,2023-08-21
+Guelph,18,2023-08-21
+Halifax,22,2023-08-21
+Hamilton,70,2023-08-21
+Kelowna,4,2023-08-21
+Kingston,17,2023-08-21
+Kitchener,37,2023-08-21
+Lethbridge,10,2023-08-21
+London,65,2023-08-21
+Mississauga,70,2023-08-21
+Moncton,11,2023-08-21
+Nanaimo,10,2023-08-21
+Nepean,16,2023-08-21
+Niagara Falls,19,2023-08-21
+North York,127,2023-08-21
+Oshawa,46,2023-08-21
+Ottawa,53,2023-08-21
+Peterborough,15,2023-08-21
+Prince George,7,2023-08-21
+Red Deer,24,2023-08-21
+Regina,28,2023-08-21
+Saint John,14,2023-08-21
+Saskatoon,37,2023-08-21
+Sault Ste. Marie,17,2023-08-21
+Scarborough,105,2023-08-21
+St Catharines,28,2023-08-21
+Sudbury,12,2023-08-21
+Surrey,31,2023-08-21
+Thunder Bay,16,2023-08-21
+Toronto,98,2023-08-21
+Vancouver,37,2023-08-21
+Victoria,10,2023-08-21
+Windsor,34,2023-08-21
+Winnipeg,62,2023-08-21
+York,23,2023-08-21
+Abbotsford,12,2023-08-22
+Barrie,24,2023-08-22
+Brampton,75,2023-08-22
+Brantford,20,2023-08-22
+Burnaby,14,2023-08-22
+Calgary,112,2023-08-22
+Cambridge,12,2023-08-22
+Chilliwack,3,2023-08-22
+Edmonton,104,2023-08-22
+Etobicoke,41,2023-08-22
+Fort McMurray,8,2023-08-22
+Grande Prairie,11,2023-08-22
+Guelph,10,2023-08-22
+Halifax,17,2023-08-22
+Hamilton,54,2023-08-22
+Kelowna,10,2023-08-22
+Kingston,14,2023-08-22
+Kitchener,23,2023-08-22
+Lethbridge,15,2023-08-22
+London,54,2023-08-22
+Mississauga,44,2023-08-22
+Moncton,7,2023-08-22
+Nanaimo,21,2023-08-22
+Nepean,12,2023-08-22
+Niagara Falls,17,2023-08-22
+North York,50,2023-08-22
+Oshawa,15,2023-08-22
+Ottawa,27,2023-08-22
+Peterborough,7,2023-08-22
+Prince George,4,2023-08-22
+Red Deer,18,2023-08-22
+Regina,20,2023-08-22
+Saint John,10,2023-08-22
+Saskatoon,30,2023-08-22
+Sault Ste. Marie,14,2023-08-22
+Scarborough,73,2023-08-22
+St Catharines,21,2023-08-22
+Sudbury,8,2023-08-22
+Surrey,40,2023-08-22
+Thunder Bay,5,2023-08-22
+Toronto,66,2023-08-22
+Vancouver,28,2023-08-22
+Victoria,15,2023-08-22
+Windsor,25,2023-08-22
+Winnipeg,84,2023-08-22
+York,19,2023-08-22
+Abbotsford,9,2023-08-23
+Barrie,22,2023-08-23
+Brampton,53,2023-08-23
+Brantford,18,2023-08-23
+Burnaby,13,2023-08-23
+Calgary,80,2023-08-23
+Cambridge,16,2023-08-23
+Chilliwack,8,2023-08-23
+Edmonton,115,2023-08-23
+Etobicoke,39,2023-08-23
+Fort McMurray,7,2023-08-23
+Grande Prairie,7,2023-08-23
+Guelph,5,2023-08-23
+Halifax,12,2023-08-23
+Hamilton,45,2023-08-23
+Kelowna,10,2023-08-23
+Kingston,11,2023-08-23
+Kitchener,25,2023-08-23
+Lethbridge,13,2023-08-23
+London,38,2023-08-23
+Mississauga,39,2023-08-23
+Moncton,5,2023-08-23
+Nanaimo,4,2023-08-23
+Nepean,11,2023-08-23
+Niagara Falls,9,2023-08-23
+North York,58,2023-08-23
+Oshawa,26,2023-08-23
+Ottawa,31,2023-08-23
+Peterborough,10,2023-08-23
+Prince George,6,2023-08-23
+Red Deer,13,2023-08-23
+Regina,24,2023-08-23
+Saint John,10,2023-08-23
+Saskatoon,24,2023-08-23
+Sault Ste. Marie,13,2023-08-23
+Scarborough,51,2023-08-23
+St Catharines,14,2023-08-23
+Sudbury,17,2023-08-23
+Surrey,35,2023-08-23
+Thunder Bay,4,2023-08-23
+Toronto,41,2023-08-23
+Vancouver,23,2023-08-23
+Victoria,6,2023-08-23
+Windsor,20,2023-08-23
+Winnipeg,59,2023-08-23
+York,11,2023-08-23
+Abbotsford,10,2023-08-24
+Barrie,20,2023-08-24
+Brampton,65,2023-08-24
+Brantford,8,2023-08-24
+Burnaby,16,2023-08-24
+Calgary,88,2023-08-24
+Cambridge,11,2023-08-24
+Chilliwack,3,2023-08-24
+Edmonton,79,2023-08-24
+Etobicoke,27,2023-08-24
+Fort McMurray,8,2023-08-24
+Grande Prairie,8,2023-08-24
+Guelph,11,2023-08-24
+Halifax,13,2023-08-24
+Hamilton,34,2023-08-24
+Kelowna,9,2023-08-24
+Kingston,7,2023-08-24
+Kitchener,26,2023-08-24
+Lethbridge,5,2023-08-24
+London,30,2023-08-24
+Mississauga,48,2023-08-24
+Moncton,11,2023-08-24
+Nanaimo,8,2023-08-24
+Nepean,15,2023-08-24
+Niagara Falls,11,2023-08-24
+North York,50,2023-08-24
+Oshawa,23,2023-08-24
+Ottawa,25,2023-08-24
+Peterborough,10,2023-08-24
+Prince George,6,2023-08-24
+Red Deer,4,2023-08-24
+Regina,15,2023-08-24
+Saint John,6,2023-08-24
+Saskatoon,24,2023-08-24
+Sault Ste. Marie,8,2023-08-24
+Scarborough,56,2023-08-24
+St Catharines,11,2023-08-24
+Sudbury,10,2023-08-24
+Surrey,33,2023-08-24
+Thunder Bay,9,2023-08-24
+Toronto,52,2023-08-24
+Vancouver,28,2023-08-24
+Victoria,11,2023-08-24
+Windsor,16,2023-08-24
+Winnipeg,51,2023-08-24
+York,14,2023-08-24
+Abbotsford,6,2023-08-25
+Barrie,7,2023-08-25
+Brampton,56,2023-08-25
+Brantford,15,2023-08-25
+Burnaby,12,2023-08-25
+Calgary,87,2023-08-25
+Cambridge,12,2023-08-25
+Chilliwack,6,2023-08-25
+Edmonton,80,2023-08-25
+Etobicoke,22,2023-08-25
+Fort McMurray,9,2023-08-25
+Grande Prairie,4,2023-08-25
+Guelph,8,2023-08-25
+Halifax,11,2023-08-25
+Hamilton,19,2023-08-25
+Kelowna,7,2023-08-25
+Kingston,9,2023-08-25
+Kitchener,22,2023-08-25
+Lethbridge,8,2023-08-25
+London,35,2023-08-25
+Mississauga,34,2023-08-25
+Moncton,6,2023-08-25
+Nanaimo,5,2023-08-25
+Nepean,9,2023-08-25
+Niagara Falls,13,2023-08-25
+North York,33,2023-08-25
+Oshawa,17,2023-08-25
+Ottawa,22,2023-08-25
+Peterborough,10,2023-08-25
+Prince George,7,2023-08-25
+Red Deer,10,2023-08-25
+Regina,9,2023-08-25
+Saint John,10,2023-08-25
+Saskatoon,13,2023-08-25
+Sault Ste. Marie,7,2023-08-25
+Scarborough,46,2023-08-25
+St Catharines,11,2023-08-25
+Sudbury,12,2023-08-25
+Surrey,36,2023-08-25
+Thunder Bay,7,2023-08-25
+Toronto,36,2023-08-25
+Vancouver,18,2023-08-25
+Victoria,7,2023-08-25
+Windsor,13,2023-08-25
+Winnipeg,46,2023-08-25
+York,8,2023-08-25
+Abbotsford,8,2023-08-26
+Barrie,16,2023-08-26
+Brampton,38,2023-08-26
+Brantford,9,2023-08-26
+Burnaby,6,2023-08-26
+Calgary,65,2023-08-26
+Cambridge,11,2023-08-26
+Chilliwack,3,2023-08-26
+Edmonton,81,2023-08-26
+Etobicoke,22,2023-08-26
+Fort McMurray,4,2023-08-26
+Grande Prairie,10,2023-08-26
+Guelph,7,2023-08-26
+Halifax,12,2023-08-26
+Hamilton,25,2023-08-26
+Kelowna,9,2023-08-26
+Kingston,10,2023-08-26
+Kitchener,11,2023-08-26
+Lethbridge,8,2023-08-26
+London,34,2023-08-26
+Mississauga,24,2023-08-26
+Moncton,10,2023-08-26
+Nanaimo,8,2023-08-26
+Nepean,8,2023-08-26
+Niagara Falls,11,2023-08-26
+North York,32,2023-08-26
+Oshawa,22,2023-08-26
+Ottawa,21,2023-08-26
+Peterborough,8,2023-08-26
+Prince George,6,2023-08-26
+Red Deer,9,2023-08-26
+Regina,16,2023-08-26
+Saint John,14,2023-08-26
+Saskatoon,15,2023-08-26
+Sault Ste. Marie,9,2023-08-26
+Scarborough,42,2023-08-26
+St Catharines,8,2023-08-26
+Sudbury,5,2023-08-26
+Surrey,29,2023-08-26
+Thunder Bay,5,2023-08-26
+Toronto,29,2023-08-26
+Vancouver,27,2023-08-26
+Victoria,8,2023-08-26
+Windsor,15,2023-08-26
+Winnipeg,48,2023-08-26
+York,4,2023-08-26
+Abbotsford,6,2023-08-27
+Barrie,10,2023-08-27
+Brampton,31,2023-08-27
+Brantford,10,2023-08-27
+Burnaby,9,2023-08-27
+Calgary,62,2023-08-27
+Cambridge,9,2023-08-27
+Chilliwack,6,2023-08-27
+Edmonton,63,2023-08-27
+Etobicoke,10,2023-08-27
+Fort McMurray,8,2023-08-27
+Grande Prairie,8,2023-08-27
+Guelph,4,2023-08-27
+Halifax,8,2023-08-27
+Hamilton,32,2023-08-27
+Kelowna,10,2023-08-27
+Kingston,6,2023-08-27
+Kitchener,10,2023-08-27
+Lethbridge,6,2023-08-27
+London,26,2023-08-27
+Mississauga,24,2023-08-27
+Moncton,6,2023-08-27
+Nanaimo,4,2023-08-27
+Nepean,4,2023-08-27
+Niagara Falls,9,2023-08-27
+North York,30,2023-08-27
+Oshawa,16,2023-08-27
+Ottawa,13,2023-08-27
+Peterborough,7,2023-08-27
+Prince George,5,2023-08-27
+Red Deer,9,2023-08-27
+Regina,13,2023-08-27
+Saint John,9,2023-08-27
+Saskatoon,13,2023-08-27
+Sault Ste. Marie,6,2023-08-27
+Scarborough,25,2023-08-27
+St Catharines,10,2023-08-27
+Sudbury,4,2023-08-27
+Surrey,19,2023-08-27
+Thunder Bay,6,2023-08-27
+Toronto,37,2023-08-27
+Vancouver,25,2023-08-27
+Victoria,11,2023-08-27
+Windsor,14,2023-08-27
+Winnipeg,38,2023-08-27
+York,7,2023-08-27
+Abbotsford,12,2023-08-28
+Barrie,21,2023-08-28
+Brampton,72,2023-08-28
+Brantford,15,2023-08-28
+Burnaby,16,2023-08-28
+Calgary,139,2023-08-28
+Cambridge,16,2023-08-28
+Chilliwack,15,2023-08-28
+Edmonton,148,2023-08-28
+Etobicoke,42,2023-08-28
+Fort McMurray,9,2023-08-28
+Grande Prairie,11,2023-08-28
+Guelph,21,2023-08-28
+Halifax,19,2023-08-28
+Hamilton,57,2023-08-28
+Kelowna,10,2023-08-28
+Kingston,13,2023-08-28
+Kitchener,39,2023-08-28
+Lethbridge,10,2023-08-28
+London,41,2023-08-28
+Mississauga,66,2023-08-28
+Moncton,13,2023-08-28
+Nanaimo,11,2023-08-28
+Nepean,12,2023-08-28
+Niagara Falls,17,2023-08-28
+North York,76,2023-08-28
+Oshawa,27,2023-08-28
+Ottawa,37,2023-08-28
+Peterborough,5,2023-08-28
+Prince George,12,2023-08-28
+Red Deer,9,2023-08-28
+Regina,37,2023-08-28
+Saint John,11,2023-08-28
+Saskatoon,31,2023-08-28
+Sault Ste. Marie,12,2023-08-28
+Scarborough,74,2023-08-28
+St Catharines,24,2023-08-28
+Sudbury,9,2023-08-28
+Surrey,61,2023-08-28
+Thunder Bay,11,2023-08-28
+Toronto,73,2023-08-28
+Vancouver,51,2023-08-28
+Victoria,13,2023-08-28
+Windsor,39,2023-08-28
+Winnipeg,85,2023-08-28
+York,13,2023-08-28
+Abbotsford,16,2023-08-29
+Barrie,15,2023-08-29
+Brampton,51,2023-08-29
+Brantford,16,2023-08-29
+Burnaby,15,2023-08-29
+Calgary,118,2023-08-29
+Cambridge,20,2023-08-29
+Chilliwack,12,2023-08-29
+Edmonton,121,2023-08-29
+Etobicoke,32,2023-08-29
+Fort McMurray,11,2023-08-29
+Grande Prairie,12,2023-08-29
+Guelph,14,2023-08-29
+Halifax,16,2023-08-29
+Hamilton,47,2023-08-29
+Kelowna,13,2023-08-29
+Kingston,13,2023-08-29
+Kitchener,19,2023-08-29
+Lethbridge,14,2023-08-29
+London,29,2023-08-29
+Mississauga,59,2023-08-29
+Moncton,9,2023-08-29
+Nanaimo,15,2023-08-29
+Nepean,12,2023-08-29
+Niagara Falls,11,2023-08-29
+North York,56,2023-08-29
+Oshawa,25,2023-08-29
+Ottawa,24,2023-08-29
+Peterborough,11,2023-08-29
+Prince George,15,2023-08-29
+Red Deer,11,2023-08-29
+Regina,24,2023-08-29
+Saint John,16,2023-08-29
+Saskatoon,29,2023-08-29
+Sault Ste. Marie,5,2023-08-29
+Scarborough,58,2023-08-29
+St Catharines,10,2023-08-29
+Sudbury,14,2023-08-29
+Surrey,40,2023-08-29
+Thunder Bay,2,2023-08-29
+Toronto,46,2023-08-29
+Vancouver,34,2023-08-29
+Victoria,16,2023-08-29
+Windsor,19,2023-08-29
+Winnipeg,64,2023-08-29
+York,9,2023-08-29
+Abbotsford,17,2023-08-30
+Barrie,12,2023-08-30
+Brampton,74,2023-08-30
+Brantford,15,2023-08-30
+Burnaby,13,2023-08-30
+Calgary,82,2023-08-30
+Cambridge,19,2023-08-30
+Chilliwack,9,2023-08-30
+Edmonton,93,2023-08-30
+Etobicoke,35,2023-08-30
+Fort McMurray,9,2023-08-30
+Grande Prairie,12,2023-08-30
+Guelph,12,2023-08-30
+Halifax,12,2023-08-30
+Hamilton,37,2023-08-30
+Kelowna,7,2023-08-30
+Kingston,9,2023-08-30
+Kitchener,17,2023-08-30
+Lethbridge,7,2023-08-30
+London,31,2023-08-30
+Mississauga,40,2023-08-30
+Moncton,8,2023-08-30
+Nanaimo,17,2023-08-30
+Nepean,17,2023-08-30
+Niagara Falls,5,2023-08-30
+North York,61,2023-08-30
+Oshawa,23,2023-08-30
+Ottawa,28,2023-08-30
+Peterborough,13,2023-08-30
+Prince George,15,2023-08-30
+Red Deer,11,2023-08-30
+Regina,13,2023-08-30
+Saint John,6,2023-08-30
+Saskatoon,18,2023-08-30
+Sault Ste. Marie,5,2023-08-30
+Scarborough,60,2023-08-30
+St Catharines,14,2023-08-30
+Sudbury,7,2023-08-30
+Surrey,37,2023-08-30
+Thunder Bay,8,2023-08-30
+Toronto,54,2023-08-30
+Vancouver,44,2023-08-30
+Victoria,19,2023-08-30
+Windsor,22,2023-08-30
+Winnipeg,53,2023-08-30
+York,14,2023-08-30
+Abbotsford,14,2023-08-31
+Barrie,18,2023-08-31
+Brampton,59,2023-08-31
+Brantford,14,2023-08-31
+Burnaby,13,2023-08-31
+Calgary,103,2023-08-31
+Cambridge,15,2023-08-31
+Chilliwack,9,2023-08-31
+Edmonton,116,2023-08-31
+Etobicoke,32,2023-08-31
+Fort McMurray,12,2023-08-31
+Grande Prairie,14,2023-08-31
+Guelph,12,2023-08-31
+Halifax,20,2023-08-31
+Hamilton,53,2023-08-31
+Kelowna,11,2023-08-31
+Kingston,10,2023-08-31
+Kitchener,22,2023-08-31
+Lethbridge,6,2023-08-31
+London,43,2023-08-31
+Mississauga,43,2023-08-31
+Moncton,4,2023-08-31
+Nanaimo,13,2023-08-31
+Nepean,13,2023-08-31
+Niagara Falls,11,2023-08-31
+North York,70,2023-08-31
+Oshawa,23,2023-08-31
+Ottawa,33,2023-08-31
+Peterborough,7,2023-08-31
+Prince George,11,2023-08-31
+Red Deer,9,2023-08-31
+Regina,23,2023-08-31
+Saint John,14,2023-08-31
+Saskatoon,21,2023-08-31
+Sault Ste. Marie,9,2023-08-31
+Scarborough,57,2023-08-31
+St Catharines,14,2023-08-31
+Sudbury,7,2023-08-31
+Surrey,34,2023-08-31
+Thunder Bay,6,2023-08-31
+Toronto,45,2023-08-31
+Vancouver,46,2023-08-31
+Victoria,11,2023-08-31
+Windsor,30,2023-08-31
+Winnipeg,65,2023-08-31
+York,15,2023-08-31
